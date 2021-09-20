@@ -16,10 +16,11 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-<small>View Counter:</small><br>
-<img src="https://profile-counter.glitch.me/SiddhantAttavar/count.svg" /> 
+    <small> View counter: </small> <br>
+    <img src="https://profile-counter.glitch.me/SiddhantAttavar/count.svg"/>
 </p>
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SiddhantAttavar&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SiddhantAttavar&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=onedark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddhantAttavar&layout=compact&theme=onedark&hide_border=true">
 </p>
