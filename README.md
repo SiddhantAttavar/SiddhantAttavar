@@ -1,22 +1,29 @@
 ### Hi there 👋
 
-<!--
-**SiddhantAttavar/SiddhantAttavar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```python
+SiddhantAttavar = Developer(
+    name = 'Siddhant Attavar',
+    education_level = 'High School (11th Grade / Junior)',
+    work_experience = None,
+    interests = [
+        'Competitive Programming',
+        'Bioinformatics',
+        'Machine Learning',
+    ],
+    languages = [
+        'Python',
+        'C++',
+        'Java',
+    ],
+    projects = [
+        'DriveSafe: A smartphone app to monitor reckless driving behaviours',
+        'SMART: Stroke Monitoring And Rehabilitation using Technology',
+    ],
+)
+```
 
 <p align="center">
-    <small> View counter: </small> <br>
+    View counter: <br>
     <img src="https://profile-counter.glitch.me/SiddhantAttavar/count.svg"/>
 </p>
 
