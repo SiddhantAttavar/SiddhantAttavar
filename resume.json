@@ -1,0 +1,191 @@
+{
+	"basics": {
+		"name": "Siddhant Attavar",
+		"label": "Student at National Public School",
+		"picture": "",
+		"email": "siddhantattavar12@gmail.com",
+		"phone": "+91 7618737666",
+		"website": "",
+		"summary": "I am a high school student at NPS Indiranagar. My main interests are competitive programming, linguistics, machine learning and bioinformatics (particularly computational neuroscience).",
+		"location": {
+			"countryCode": "US",
+			"address": "L 1802 Brigade Metropolis, Mahadevapura, Whitefield, Bengaluru, India"
+		},
+		"profiles": [
+			{
+				"network": "LinkedIn",
+				"username": "siddhantattavar",
+				"url": "https://www.linkedin.com/in/siddhantattavar/"
+			}
+		]
+	},
+	"work": [],
+	"volunteer": [],
+	"education": [
+		{
+			"institution": "National Public School  Indiranagar",
+			"area": "",
+			"studyType": "High School Diploma",
+			"startDate": "2018-06-30",
+			"endDate": "2023-04-30",
+			"gpa": "",
+			"courses": []
+		},
+		{
+			"institution": "Inventure Academy",
+			"area": "",
+			"studyType": "High School Diploma",
+			"startDate": "2014-06-30",
+			"endDate": "2018-04-30",
+			"gpa": "",
+			"courses": []
+		},
+		{
+			"institution": "Global Indian International School East Coast, Singapore",
+			"area": "",
+			"studyType": "High School Diploma",
+			"startDate": "2011-06-30",
+			"endDate": "2014-04-30",
+			"gpa": "",
+			"courses": []
+		}
+	],
+	"awards": [
+		{
+			"title": "GYSTB 2021 Second Prize Winner",
+			"date": "2021-06-30",
+			"awarder": "Hong Kong Federation of Youth Groups",
+			"summary": "Second Prize at Global Youth Science and Technology Bowl 2021 for project \"Stroke Monitoring And Rehabilitation using Technology\""
+		},
+		{
+			"title": "Genius Olympiad 2021 Gold Award Winner",
+			"date": "2021-06-30",
+			"awarder": "Genius Olympiad",
+			"summary": "Gold Award in Science Category of Genius Olympiad for project \"Stroke Monitoring And Rehabilitation using Technology\""
+		},
+		{
+			"title": "HPE Codewars 2021 2nd Place",
+			"date": "2021-04-30",
+			"awarder": "Hewlett Packard Enterprise",
+			"summary": "Placed 2nd amongst 1000+ participants"
+		},
+		{
+			"title": "IOITC 2021 Qualifier",
+			"date": "2021-04-30",
+			"awarder": "Indian Association for Research in Computing Science",
+			"summary": "One of the top 40 students of India to be selected for the International Olympiad of Informatics Training Camp"
+		},
+		{
+			"title": "PLO 2021 National Camp Qualifier",
+			"date": "2021-02-28",
+			"awarder": "Panini Linguistics Olympiad",
+			"summary": "One of top 40 students to qualify for the national camp at Panini Linguistics Olympiad, and reserve team for Internation Linguistics Olympiad with 10th rank"
+		},
+		{
+			"title": "INSEF 2021 Regional and National Fair Gold Medallist",
+			"date": "2021-01-31",
+			"awarder": "Science Society of India",
+			"summary": "Gold Medallist at INSEF National Fair for project \"SMART: Stroke Monitoring And Rehabilitation using Technology\""
+		},
+		{
+			"title": "IRIS National Fair 2021 Finalist",
+			"date": "2021-01-31",
+			"awarder": "Exstemplar Education Foundation, Department of Science and Technology India",
+			"summary": "Top 100 projects at IRIS National Fair for \"SMART: Stroke Monitoring and Rehabilitation using Technology\""
+		},
+		{
+			"title": "INSEF 2020 Regional Gold Medallist and National Finalist",
+			"date": "2020-01-31",
+			"awarder": "Science Society of India",
+			"summary": "Qualifier at INSEF National Fair for project \"DriveSafe: A smartphone app to monitor reckless driving behaviours\""
+		},
+		{
+			"title": "IRIS National Fair 2020 Finalist",
+			"date": "2020-01-31",
+			"awarder": "Exstemplar Education Foundation, Department of Science and Technology, India",
+			"summary": "Top 100 projects for \"DriveSafe: A smartphone app to monitor reckless driving behaviours\""
+		},
+		{
+			"title": "Toyota Hackathon Winner",
+			"date": "2019-11-30",
+			"awarder": "Toyota Kirloskar Motor Private Limited, Indian Road Safety Campaign",
+			"summary": "1st Place out of 750+ teams for project \"DriveSafe: A smartphone app to monitor reckless driving behaviours\""
+		}
+	],
+	"publications": [],
+	"skills": [
+		{
+			"name": "Programming",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Deep Learning",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Java",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Algorithms",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Machine Learning",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Programming Languages",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "C++",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "TensorFlow",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Competitive Programming",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Artificial Intelligence (AI)",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Android Development",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Android",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Python (Programming Language)",
+			"level": "",
+			"keywords": []
+		}
+	],
+	"languages": [
+		{
+			"language": "en",
+			"fluency": "Native Speaker"
+		}
+	],
+	"interests": [],
+	"references": []
+}
