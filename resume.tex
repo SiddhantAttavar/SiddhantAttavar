@@ -1,0 +1,146 @@
+\documentclass[a4paper]{article}
+    \usepackage{fullpage}
+    \usepackage{amsmath}
+    \usepackage{amssymb}
+    \usepackage{textcomp}
+    \usepackage[utf8]{inputenc}
+    \usepackage[T1]{fontenc}
+    \textheight=10in
+    \pagestyle{empty}
+    \raggedright
+
+    %\renewcommand{\encodingdefault}{cg}
+%\renewcommand{\rmdefault}{lgrcmr}
+
+\def\bull{\vrule height 0.8ex width .7ex depth -.1ex }
+
+% DEFINITIONS FOR RESUME %%%%%%%%%%%%%%%%%%%%%%%
+
+\newcommand{\area} [2] {
+    \vspace*{-9pt}
+    \begin{verse}
+        \textbf{#1}   #2
+    \end{verse}
+}
+
+\newcommand{\lineunder} {
+    \vspace*{-8pt} \\
+    \hspace*{-18pt} \hrulefill \\
+}
+
+\newcommand{\header} [1] {
+    {\hspace*{-18pt}\vspace*{6pt} \textsc{#1}}
+    \vspace*{-6pt} \lineunder
+}
+
+\newcommand{\employer} [3] {
+    { \textbf{#1} (#2)\\ \underline{\textbf{\emph{#3}}}\\  }
+}
+
+\newcommand{\contact} [3] {
+    \vspace*{-10pt}
+    \begin{center}
+        {\Huge \scshape {#1}}\\
+        #2 \\ #3
+    \end{center}
+    \vspace*{-8pt}
+}
+
+\newenvironment{achievements}{
+    \begin{list}
+        {$\bullet$}{\topsep 0pt \itemsep -2pt}}{\vspace*{4pt}
+    \end{list}
+}
+
+\newcommand{\schoolwithcourses} [4] {
+    \textbf{#1} #2 $\bullet$ #3\\
+    #4 \\
+    \vspace*{5pt}
+}
+
+\newcommand{\school} [4] {
+    \textbf{#1} #2 $\bullet$ #3\\
+    #4 \\
+}
+% END RESUME DEFINITIONS %%%%%%%%%%%%%%%%%%%%%%%
+
+    \begin{document}
+\vspace*{-40pt}
+
+    
+
+%==== Profile ====%
+\vspace*{-10pt}
+\begin{center}
+	{\Huge \scshape {Siddhant Attavar}}\\
+	L 1802 Brigade Metropolis, Mahadevapura, Whitefield, Bengaluru, India $\cdot$ siddhantattavar12@gmail.com $\cdot$ +91 7618737666\\
+\end{center}
+
+%==== Education ====%
+\header{Education}
+\textbf{National Public School Indiranagar}\\
+High School Diploma \hfill 2018-06-30 - 2023-04-30\\
+\vspace{2mm}
+\textbf{Inventure Academy}\\
+High School Diploma \hfill 2014-06-30 - 2018-04-30\\
+\vspace{2mm}
+\textbf{Global Indian International School East Coast, Singapore}\\
+High School Diploma \hfill 2011-06-30 - 2014-04-30\\
+\vspace{2mm}
+
+
+
+\header{Skills}
+\begin{tabular}{ l l }
+	Programming:                   &   \\
+	Deep Learning:                 &   \\
+	Java:                          &   \\
+	Algorithms:                    &   \\
+	Machine Learning:              &   \\
+	Programming Languages:         &   \\
+	C++:                           &   \\
+	TensorFlow:                    &   \\
+	Competitive Programming:       &   \\
+	Artificial Intelligence (AI):  &   \\
+	Android Development:           &   \\
+	Android:                       &   \\
+	Python (Programming Language): &   \\
+\end{tabular}
+\vspace{2mm}
+
+
+
+\header{Awards}
+\textbf{GYSTB 2021 Second Prize Winner} \hfill Hong Kong Federation of Youth Groups\\
+Second Prize at Global Youth Science and Technology Bowl 2021 for project \textquotedbl{}Stroke Monitoring And Rehabilitation using Technology\textquotedbl{} \hfill 2021-06-30\\
+\vspace*{2mm}
+\textbf{Genius Olympiad 2021 Gold Award Winner} \hfill Genius Olympiad\\
+Gold Award in Science Category of Genius Olympiad for project \textquotedbl{}Stroke Monitoring And Rehabilitation using Technology\textquotedbl{} \hfill 2021-06-30\\
+\vspace*{2mm}
+\textbf{HPE Codewars 2021 2nd Place} \hfill Hewlett Packard Enterprise\\
+Placed 2nd amongst 1000+ participants \hfill 2021-04-30\\
+\vspace*{2mm}
+\textbf{IOITC 2021 Qualifier} \hfill Indian Association for Research in Computing Science\\
+One of the top 40 students of India to be selected for the International Olympiad of Informatics Training Camp \hfill 2021-04-30\\
+\vspace*{2mm}
+\textbf{PLO 2021 National Camp Qualifier} \hfill Panini Linguistics Olympiad\\
+One of top 40 students to qualify for the national camp at Panini Linguistics Olympiad, and reserve team for Internation Linguistics Olympiad with 10th rank \hfill 2021-02-28\\
+\vspace*{2mm}
+\textbf{INSEF 2021 Regional and National Fair Gold Medallist} \hfill Science Society of India\\
+Gold Medallist at INSEF National Fair for project \textquotedbl{}SMART: Stroke Monitoring And Rehabilitation using Technology\textquotedbl{} \hfill 2021-01-31\\
+\vspace*{2mm}
+\textbf{IRIS National Fair 2021 Finalist} \hfill Exstemplar Education Foundation, Department of Science and Technology India\\
+Top 100 projects at IRIS National Fair for \textquotedbl{}SMART: Stroke Monitoring and Rehabilitation using Technology\textquotedbl{} \hfill 2021-01-31\\
+\vspace*{2mm}
+\textbf{INSEF 2020 Regional Gold Medallist and National Finalist} \hfill Science Society of India\\
+Qualifier at INSEF National Fair for project \textquotedbl{}DriveSafe: A smartphone app to monitor reckless driving behaviours\textquotedbl{} \hfill 2020-01-31\\
+\vspace*{2mm}
+\textbf{IRIS National Fair 2020 Finalist} \hfill Exstemplar Education Foundation, Department of Science and Technology, India\\
+Top 100 projects for \textquotedbl{}DriveSafe: A smartphone app to monitor reckless driving behaviours\textquotedbl{} \hfill 2020-01-31\\
+\vspace*{2mm}
+\textbf{Toyota Hackathon Winner} \hfill Toyota Kirloskar Motor Private Limited, Indian Road Safety Campaign\\
+1st Place out of 750+ teams for project \textquotedbl{}DriveSafe: A smartphone app to monitor reckless driving behaviours\textquotedbl{} \hfill 2019-11-30\\
+\vspace*{2mm}
+
+\ 
+\end{document}
