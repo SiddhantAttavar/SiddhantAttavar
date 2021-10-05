@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<p align="center">
+    View counter: <br>
+    <img src="https://profile-counter.glitch.me/SiddhantAttavar/count.svg"/>
+</p>
+
 ```python
 SiddhantAttavar = Developer(
     name = 'Siddhant Attavar',
@@ -21,11 +26,6 @@ SiddhantAttavar = Developer(
     ],
 )
 ```
-
-<p align="center">
-    View counter: <br>
-    <img src="https://profile-counter.glitch.me/SiddhantAttavar/count.svg"/>
-</p>
 
 <p align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SiddhantAttavar&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=onedark"/>
