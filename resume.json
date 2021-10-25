@@ -2,14 +2,17 @@
 	"basics": {
 		"name": "Siddhant Attavar",
 		"label": "Student at National Public School",
-		"picture": "",
+		"image": "",
 		"email": "siddhantattavar12@gmail.com",
 		"phone": "+91 7618737666",
-		"website": "",
-		"summary": "I am a high school student at NPS Indiranagar. My main interests are competitive programming, linguistics, machine learning and bioinformatics (particularly computational neuroscience).",
+		"url": "https://www.linkedin.com/in/siddhantattavar/",
+		"summary": "I am a high school student at NPS Indiranagar. My main interests are competitive programming, linguistics, machine learning and bioinformatics (particularly computational neuroscience). I have developed several apps and products which have won awards at the international level. I also have a keen interest in the International Linguistics Olympiad (IOL) and International Informatics Olympiad (IOI).",
 		"location": {
-			"countryCode": "US",
-			"address": "L 1802 Brigade Metropolis, Mahadevapura, Whitefield, Bengaluru, India"
+			"address": "L 1802 Brigade Metropolis, Mahadevapura, Whitefield, Bengaluru, India",
+			"postalCode": "560048",
+			"city": "Bengaluru",
+			"countryCode": "IND",
+			"region": "Karnataka"
 		},
 		"profiles": [
 			{
@@ -34,29 +37,32 @@
 	"education": [
 		{
 			"institution": "National Public School  Indiranagar",
+			"url": "https://www.npsinr.com/",
 			"area": "",
 			"studyType": "High School Diploma",
 			"startDate": "2018-06-30",
 			"endDate": "2023-04-30",
-			"gpa": "",
+			"score": "",
 			"courses": []
 		},
 		{
 			"institution": "Inventure Academy",
+			"url": "https://www.inventureacademy.com/",
 			"area": "",
 			"studyType": "High School Diploma",
 			"startDate": "2014-06-30",
 			"endDate": "2018-04-30",
-			"gpa": "",
+			"score": "",
 			"courses": []
 		},
 		{
 			"institution": "Global Indian International School East Coast, Singapore",
+			"url": "https://singapore.globalindianschool.org/",
 			"area": "",
 			"studyType": "High School Diploma",
 			"startDate": "2011-06-30",
 			"endDate": "2014-04-30",
-			"gpa": "",
+			"score": "",
 			"courses": []
 		}
 	],
@@ -126,76 +132,124 @@
 	"skills": [
 		{
 			"name": "Programming",
-			"level": "",
-			"keywords": []
-		},
-		{
-			"name": "Deep Learning",
-			"level": "",
-			"keywords": []
-		},
-		{
-			"name": "Java",
-			"level": "",
-			"keywords": []
-		},
-		{
-			"name": "Algorithms",
-			"level": "",
-			"keywords": []
-		},
-		{
-			"name": "Machine Learning",
-			"level": "",
+			"level": "Intermediate",
 			"keywords": []
 		},
 		{
 			"name": "Programming Languages",
-			"level": "",
+			"level": "Intermediate",
 			"keywords": []
 		},
 		{
-			"name": "C++",
-			"level": "",
+			"name": "Deep Learning",
+			"level": "Beginner",
 			"keywords": []
 		},
 		{
-			"name": "TensorFlow",
-			"level": "",
-			"keywords": []
-		},
-		{
-			"name": "Competitive Programming",
-			"level": "",
+			"name": "Machine Learning",
+			"level": "Beginner",
 			"keywords": []
 		},
 		{
 			"name": "Artificial Intelligence (AI)",
-			"level": "",
+			"level": "Beginner",
+			"keywords": []
+		},
+		{
+			"name": "TensorFlow",
+			"level": "Beginner",
 			"keywords": []
 		},
 		{
 			"name": "Android Development",
-			"level": "",
+			"level": "Intermediate",
 			"keywords": []
 		},
 		{
 			"name": "Android",
-			"level": "",
+			"level": "Intermediate",
+			"keywords": []
+		},
+		{
+			"name": "Algorithms",
+			"level": "Advanced",
+			"keywords": []
+		},
+		{
+			"name": "Competitive Programming",
+			"level": "Advanced",
+			"keywords": []
+		},
+		{
+			"name": "Java",
+			"level": "Intermediate",
+			"keywords": []
+		},
+		{
+			"name": "C++",
+			"level": "Advanced",
 			"keywords": []
 		},
 		{
 			"name": "Python (Programming Language)",
-			"level": "",
+			"level": "Advanced",
 			"keywords": []
 		}
 	],
 	"languages": [
 		{
-			"language": "en",
+			"language": "English",
 			"fluency": "Native Speaker"
 		}
 	],
-	"interests": [],
-	"references": []
+	"interests": [
+		{
+			"name": "Linguistics",
+			"keywords": []
+		},
+		{
+			"name": "Competitive Programming",
+			"keywords": []
+		},
+		{
+			"name": "Computational Neuroscience",
+			"keywords": []
+		}
+	],
+	"references": [],
+	"projects": [
+		{
+			"name": "DriveSafe",
+			"description": "A smartphone app to monitor reckless driving behaviours",
+			"highlights": [
+				"Toyota Hackathon Winner",
+				"IRIS National Fair Finalist",
+				"INSEF 2020 Regional Gold Medallist and National Finalist"
+			],
+			"keywords": [],
+			"startDate": "2019-11-30",
+			"endDate": "2020-01-31",
+			"url": "",
+			"roles": [],
+			"entity": "",
+			"type": ""
+		},
+		{
+			"name": "SMART",
+			"description": "Stroke Monitoring And Rehabilitation using Technology",
+			"highlights": [
+				"IRIS National Fair Finalist",
+				"INSEF 2021 National Gold Medallist",
+				"Genius Olympiad Gold Award",
+				"GYSTB Second Place Award"
+			],
+			"keywords": [],
+			"startDate": "2019-11-30",
+			"endDate": "2020-01-31",
+			"url": "",
+			"roles": [],
+			"entity": "",
+			"type": ""
+		}
+	]
 }
