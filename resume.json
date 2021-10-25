@@ -40,8 +40,8 @@
 			"url": "https://www.npsinr.com/",
 			"area": "",
 			"studyType": "High School Diploma",
-			"startDate": "2018-06-30",
-			"endDate": "2023-04-30",
+			"startDate": "30-06-2018",
+			"endDate": "30-04-2023",
 			"score": "",
 			"courses": []
 		},
@@ -50,8 +50,8 @@
 			"url": "https://www.inventureacademy.com/",
 			"area": "",
 			"studyType": "High School Diploma",
-			"startDate": "2014-06-30",
-			"endDate": "2018-04-30",
+			"startDate": "30-06-2014",
+			"endDate": "30-04-2018",
 			"score": "",
 			"courses": []
 		},
@@ -60,8 +60,8 @@
 			"url": "https://singapore.globalindianschool.org/",
 			"area": "",
 			"studyType": "High School Diploma",
-			"startDate": "2011-06-30",
-			"endDate": "2014-04-30",
+			"startDate": "30-06-2011",
+			"endDate": "30-04-2014",
 			"score": "",
 			"courses": []
 		}
@@ -69,63 +69,63 @@
 	"awards": [
 		{
 			"title": "GYSTB 2021 Second Prize Winner",
-			"date": "2021-06-30",
+			"date": "30-06-2021",
 			"awarder": "Hong Kong Federation of Youth Groups",
-			"summary": "Second Prize at Global Youth Science and Technology Bowl 2021 for project \"Stroke Monitoring And Rehabilitation using Technology\""
+			"summary": "Second Prize at Global Youth Science and Technology Bowl 2021"
 		},
 		{
 			"title": "Genius Olympiad 2021 Gold Award Winner",
-			"date": "2021-06-30",
+			"date": "30-06-2021",
 			"awarder": "Genius Olympiad",
-			"summary": "Gold Award in Science Category of Genius Olympiad for project \"Stroke Monitoring And Rehabilitation using Technology\""
+			"summary": "Gold Award in Science Category of Genius Olympiad"
 		},
 		{
 			"title": "HPE Codewars 2021 2nd Place",
-			"date": "2021-04-30",
+			"date": "30-04-2021",
 			"awarder": "Hewlett Packard Enterprise",
-			"summary": "Placed 2nd amongst 1000+ participants"
+			"summary": "Placed 2nd amongst 2500+ participants"
 		},
 		{
 			"title": "IOITC 2021 Qualifier",
-			"date": "2021-04-30",
+			"date": "30-04-2021",
 			"awarder": "Indian Association for Research in Computing Science",
 			"summary": "One of the top 40 students of India to be selected for the International Olympiad of Informatics Training Camp"
 		},
 		{
 			"title": "PLO 2021 National Camp Qualifier",
-			"date": "2021-02-28",
+			"date": "28-02-2021",
 			"awarder": "Panini Linguistics Olympiad",
 			"summary": "One of top 40 students to qualify for the national camp at Panini Linguistics Olympiad, and reserve team for Internation Linguistics Olympiad with 10th rank"
 		},
 		{
 			"title": "INSEF 2021 Regional and National Fair Gold Medallist",
-			"date": "2021-01-31",
+			"date": "31-01-2021",
 			"awarder": "Science Society of India",
-			"summary": "Gold Medallist at INSEF National Fair for project \"SMART: Stroke Monitoring And Rehabilitation using Technology\""
+			"summary": "Gold Medallist at INSEF National Fair"
 		},
 		{
 			"title": "IRIS National Fair 2021 Finalist",
-			"date": "2021-01-31",
+			"date": "31-01-2021",
 			"awarder": "Exstemplar Education Foundation, Department of Science and Technology India",
-			"summary": "Top 100 projects at IRIS National Fair for \"SMART: Stroke Monitoring and Rehabilitation using Technology\""
+			"summary": "Top 100 projects at IRIS National Fair"
 		},
 		{
 			"title": "INSEF 2020 Regional Gold Medallist and National Finalist",
-			"date": "2020-01-31",
+			"date": "31-01-2020",
 			"awarder": "Science Society of India",
-			"summary": "Qualifier at INSEF National Fair for project \"DriveSafe: A smartphone app to monitor reckless driving behaviours\""
+			"summary": "Qualifier at INSEF National Fair"
 		},
 		{
 			"title": "IRIS National Fair 2020 Finalist",
-			"date": "2020-01-31",
+			"date": "31-01-2020",
 			"awarder": "Exstemplar Education Foundation, Department of Science and Technology, India",
-			"summary": "Top 100 projects for \"DriveSafe: A smartphone app to monitor reckless driving behaviours\""
+			"summary": "Top 100 projects at IRIS National Fair"
 		},
 		{
 			"title": "Toyota Hackathon Winner",
-			"date": "2019-11-30",
+			"date": "30-11-2019",
 			"awarder": "Toyota Kirloskar Motor Private Limited, Indian Road Safety Campaign",
-			"summary": "1st Place out of 750+ teams for project \"DriveSafe: A smartphone app to monitor reckless driving behaviours\""
+			"summary": "1st Place out of 750+ teams"
 		}
 	],
 	"publications": [],
@@ -138,26 +138,6 @@
 		{
 			"name": "Programming Languages",
 			"level": "Intermediate",
-			"keywords": []
-		},
-		{
-			"name": "Deep Learning",
-			"level": "Beginner",
-			"keywords": []
-		},
-		{
-			"name": "Machine Learning",
-			"level": "Beginner",
-			"keywords": []
-		},
-		{
-			"name": "Artificial Intelligence (AI)",
-			"level": "Beginner",
-			"keywords": []
-		},
-		{
-			"name": "TensorFlow",
-			"level": "Beginner",
 			"keywords": []
 		},
 		{
@@ -219,34 +199,34 @@
 	"references": [],
 	"projects": [
 		{
-			"name": "DriveSafe",
-			"description": "A smartphone app to monitor reckless driving behaviours",
+			"name": "SMART",
+			"description": "Stroke Monitoring And Rehabilitation using Technology",
 			"highlights": [
-				"Toyota Hackathon Winner",
-				"IRIS National Fair Finalist",
-				"INSEF 2020 Regional Gold Medallist and National Finalist"
+				"Genius Olympiad Gold Award",
+				"GYSTB Second Place Award",
+				"IRIS National Fair 2021 Finalist",
+				"INSEF 2021 National Gold Medallist"
 			],
 			"keywords": [],
-			"startDate": "2019-11-30",
-			"endDate": "2020-01-31",
-			"url": "",
+			"startDate": "30-04-2020",
+			"endDate": "30-06-2021",
+			"url": "https://github.com/SiddhantAttavar/SMART",
 			"roles": [],
 			"entity": "",
 			"type": ""
 		},
 		{
-			"name": "SMART",
-			"description": "Stroke Monitoring And Rehabilitation using Technology",
+			"name": "DriveSafe",
+			"description": "A smartphone app to monitor reckless driving behaviours",
 			"highlights": [
-				"IRIS National Fair Finalist",
-				"INSEF 2021 National Gold Medallist",
-				"Genius Olympiad Gold Award",
-				"GYSTB Second Place Award"
+				"Toyota Hackathon Winner",
+				"IRIS National Fair 2020 Finalist",
+				"INSEF 2020 Regional Gold Medallist and National Finalist"
 			],
 			"keywords": [],
-			"startDate": "2019-11-30",
-			"endDate": "2020-01-31",
-			"url": "",
+			"startDate": "30-04-2019",
+			"endDate": "31-01-2020",
+			"url": "https://github.com/SiddhantAttavar/DriveSafe",
 			"roles": [],
 			"entity": "",
 			"type": ""
