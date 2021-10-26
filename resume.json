@@ -92,33 +92,15 @@
 			"summary": "One of the top 40 students of India to be selected for the International Olympiad of Informatics Training Camp"
 		},
 		{
-			"title": "PLO 2021 National Camp Qualifier",
-			"date": "28-02-2021",
-			"awarder": "Panini Linguistics Olympiad",
-			"summary": "One of top 40 students to qualify for the national camp at Panini Linguistics Olympiad, and reserve team for Internation Linguistics Olympiad with 10th rank"
-		},
-		{
-			"title": "INSEF 2021 Regional and National Fair Gold Medallist",
-			"date": "31-01-2021",
-			"awarder": "Science Society of India",
-			"summary": "Gold Medallist at INSEF National Fair"
-		},
-		{
-			"title": "IRIS National Fair 2021 Finalist",
-			"date": "31-01-2021",
-			"awarder": "Exstemplar Education Foundation, Department of Science and Technology India",
-			"summary": "Top 100 projects at IRIS National Fair"
-		},
-		{
 			"title": "INSEF 2020 Regional Gold Medallist and National Finalist",
-			"date": "31-01-2020",
+			"date": "31-01-2020, 31-01-2021",
 			"awarder": "Science Society of India",
-			"summary": "Qualifier at INSEF National Fair"
+			"summary": "Qualifier at INSEF National Fair. National Gold Medallist in 2021"
 		},
 		{
-			"title": "IRIS National Fair 2020 Finalist",
-			"date": "31-01-2020",
-			"awarder": "Exstemplar Education Foundation, Department of Science and Technology, India",
+			"title": "IRIS National Fair Finalist",
+			"date": "31-01-2020, 31-01-2021",
+			"awarder": "Exstemplar Education Foundation, Department of Science and Technology India",
 			"summary": "Top 100 projects at IRIS National Fair"
 		},
 		{
@@ -126,6 +108,30 @@
 			"date": "30-11-2019",
 			"awarder": "Toyota Kirloskar Motor Private Limited, Indian Road Safety Campaign",
 			"summary": "1st Place out of 750+ teams"
+		},
+		{
+			"title": "IITB Techfest Innovation Challenge Winner",
+			"date": "31-01-2020",
+			"awarder": "Indian Institute of Technology Bombay",
+			"summary": "1st place at IIT Bombay Techfest's Innovation Challenge for my project \"A smart Irrigation-as-a-Service (SIAS) solution for reducing water consumption in sugarcane\"."
+		},
+		{
+			"title": "Asia Pacific Linguistics Olympiad Bronze Medallist",
+			"date": "30-05-2019",
+			"awarder": "Asia Pacific Linguistics Olympiad",
+			"summary": "6th place amongst Indian contestants in APLO"
+		},
+		{
+			"title": "Panini Linguistics Olympiad National Camp Qualifier",
+			"date": "30-05-2019, 28-02-2021",
+			"awarder": "Panini Linguistics Olympiad",
+			"summary": "One of top 40 students to qualify for the national camp at Panini Linguistics Olympiad. Reservse team for IOL in 2021"
+		},
+		{
+			"title": "World Robot Olympiad India National Finalist",
+			"date": "30-10-2016",
+			"awarder": "World Robot Olympiad",
+			"summary": "Qualifier for Indian National Round of World Robot Olympiad"
 		}
 	],
 	"publications": [],
