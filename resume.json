@@ -131,32 +131,12 @@
 	"publications": [],
 	"skills": [
 		{
-			"name": "Programming",
-			"level": "Intermediate",
-			"keywords": []
-		},
-		{
-			"name": "Programming Languages",
-			"level": "Intermediate",
-			"keywords": []
-		},
-		{
-			"name": "Android Development",
-			"level": "Intermediate",
-			"keywords": []
-		},
-		{
-			"name": "Android",
-			"level": "Intermediate",
-			"keywords": []
-		},
-		{
-			"name": "Algorithms",
+			"name": "Python (Programming Language)",
 			"level": "Advanced",
 			"keywords": []
 		},
 		{
-			"name": "Competitive Programming",
+			"name": "C++",
 			"level": "Advanced",
 			"keywords": []
 		},
@@ -166,13 +146,13 @@
 			"keywords": []
 		},
 		{
-			"name": "C++",
+			"name": "Algorithms",
 			"level": "Advanced",
 			"keywords": []
 		},
 		{
-			"name": "Python (Programming Language)",
-			"level": "Advanced",
+			"name": "Android Development",
+			"level": "Intermediate",
 			"keywords": []
 		}
 	],
