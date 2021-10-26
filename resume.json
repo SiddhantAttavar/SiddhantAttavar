@@ -5,7 +5,7 @@
 		"image": "",
 		"email": "siddhantattavar12@gmail.com",
 		"phone": "+91 7618737666",
-		"url": "https://www.linkedin.com/in/siddhantattavar/",
+		"website": "github.com/SiddhantAttavar | linkedin.com/in/siddhantattavar",
 		"summary": "I am a high school student at NPS Indiranagar. My main interests are competitive programming, linguistics, machine learning and bioinformatics (particularly computational neuroscience). I have developed several apps and products which have won awards at the international level. I also have a keen interest in the International Linguistics Olympiad (IOL) and International Informatics Olympiad (IOI).",
 		"location": {
 			"address": "L 1802 Brigade Metropolis, Mahadevapura, Whitefield, Bengaluru, India",
@@ -18,17 +18,17 @@
 			{
 				"network": "LinkedIn",
 				"username": "siddhantattavar",
-				"url": "https://www.linkedin.com/in/siddhantattavar/"
+				"url": "linkedin.com/in/siddhantattavar"
 			},
 			{
 				"network": "GitHub",
 				"username": "SiddhantAttavar",
-				"url": "https://github.com/SiddhantAttavar"
+				"url": "github.com/SiddhantAttavar"
 			},
 			{
 				"network": "StopStalk",
 				"username": "SiddhantAttavar",
-				"url": "https://www.stopstalk.com/user/profile/SiddhantAttavar"
+				"url": "stopstalk.com/user/profile/SiddhantAttavar"
 			}
 		]
 	},
@@ -37,7 +37,7 @@
 	"education": [
 		{
 			"institution": "National Public School  Indiranagar",
-			"url": "https://www.npsinr.com/",
+			"url": "npsinr.com",
 			"area": "",
 			"studyType": "High School Diploma",
 			"startDate": "30-06-2018",
@@ -47,7 +47,7 @@
 		},
 		{
 			"institution": "Inventure Academy",
-			"url": "https://www.inventureacademy.com/",
+			"url": "inventureacademy.com",
 			"area": "",
 			"studyType": "High School Diploma",
 			"startDate": "30-06-2014",
@@ -57,7 +57,7 @@
 		},
 		{
 			"institution": "Global Indian International School East Coast, Singapore",
-			"url": "https://singapore.globalindianschool.org/",
+			"url": "singapore.globalindianschool.org",
 			"area": "",
 			"studyType": "High School Diploma",
 			"startDate": "30-06-2011",
@@ -190,7 +190,7 @@
 			"keywords": [],
 			"startDate": "30-04-2020",
 			"endDate": "30-06-2021",
-			"url": "https://github.com/SiddhantAttavar/SMART",
+			"url": "github.com/SiddhantAttavar/SMART",
 			"roles": [],
 			"entity": "",
 			"type": ""
@@ -206,7 +206,7 @@
 			"keywords": [],
 			"startDate": "30-04-2019",
 			"endDate": "31-01-2020",
-			"url": "https://github.com/SiddhantAttavar/DriveSafe",
+			"url": "github.com/SiddhantAttavar/DriveSafe",
 			"roles": [],
 			"entity": "",
 			"type": ""
