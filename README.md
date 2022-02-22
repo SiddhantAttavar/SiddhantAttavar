@@ -1,6 +1,4 @@
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello%2C+I'm+Siddhant+Attavar"/>
-</p>
+![Hello I'm Siddhant Attavar](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello%2C+I'm+Siddhant+Attavar)
 
 <p align="center">
     <img src="https://profile-counter.glitch.me/SiddhantAttavar/count.svg"/>
