@@ -7,7 +7,7 @@
 ```python
 SiddhantAttavar = Developer(
     name = 'Siddhant Attavar',
-    education_level = 'High School (11th Grade / Junior)',
+    education_level = 'High School (12th Grade / Senior)',
     work_experience = None,
     interests = [
         'Competitive Programming',
@@ -22,6 +22,7 @@ SiddhantAttavar = Developer(
     projects = [
         'DriveSafe: A smartphone app to monitor reckless driving behaviours',
         'SMART: Stroke Monitoring And Rehabilitation using Technology',
+		'SimAID: Simulating and Analyzing Infectious Diseases'
     ],
 )
 ```
