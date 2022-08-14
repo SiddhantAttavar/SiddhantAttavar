@@ -1,221 +1,169 @@
 {
-	"basics": {
-		"name": "Siddhant Attavar",
-		"label": "Student at National Public School",
-		"image": "",
-		"email": "siddhantattavar12@gmail.com",
-		"phone": "+91 7618737666",
-		"website": "github.com/SiddhantAttavar linkedin.com/in/siddhantattavar",
-		"summary": "I am a high school student at NPS Indiranagar. My main interests are competitive programming, linguistics, machine learning and bioinformatics (particularly computational neuroscience). I have developed several apps and products which have won awards at the international level. I also have a keen interest in the International Linguistics Olympiad (IOL) and International Informatics Olympiad (IOI).",
-		"location": {
-			"address": "L 1802 Brigade Metropolis, Mahadevapura, Whitefield, Bengaluru, India",
-			"postalCode": "560048",
-			"city": "Bengaluru",
-			"countryCode": "IND",
-			"region": "Karnataka"
-		},
-		"profiles": [
-			{
-				"network": "LinkedIn",
-				"username": "siddhantattavar",
-				"url": "linkedin.com/in/siddhantattavar"
-			},
-			{
-				"network": "GitHub",
-				"username": "SiddhantAttavar",
-				"url": "github.com/SiddhantAttavar"
-			},
-			{
-				"network": "StopStalk",
-				"username": "SiddhantAttavar",
-				"url": "stopstalk.com/user/profile/SiddhantAttavar"
-			}
-		]
-	},
-	"work": [],
-	"volunteer": [],
-	"education": [
-		{
-			"institution": "National Public School  Indiranagar",
-			"url": "npsinr.com",
-			"area": "",
-			"studyType": "High School Diploma",
-			"startDate": "30-06-2018",
-			"endDate": "30-04-2023",
-			"score": "",
-			"courses": []
-		},
-		{
-			"institution": "Inventure Academy",
-			"url": "inventureacademy.com",
-			"area": "",
-			"studyType": "High School Diploma",
-			"startDate": "30-06-2014",
-			"endDate": "30-04-2018",
-			"score": "",
-			"courses": []
-		},
-		{
-			"institution": "Global Indian International School East Coast, Singapore",
-			"url": "singapore.globalindianschool.org",
-			"area": "",
-			"studyType": "High School Diploma",
-			"startDate": "30-06-2011",
-			"endDate": "30-04-2014",
-			"score": "",
-			"courses": []
-		}
-	],
-	"awards": [
-		{
-			"title": "GYSTB 2021 Second Prize Winner",
-			"date": "30-06-2021",
-			"awarder": "Hong Kong Federation of Youth Groups",
-			"summary": "Second Prize at Global Youth Science and Technology Bowl 2021"
-		},
-		{
-			"title": "Genius Olympiad 2021 Gold Award Winner",
-			"date": "30-06-2021",
-			"awarder": "Genius Olympiad",
-			"summary": "Gold Award in Science Category of Genius Olympiad"
-		},
-		{
-			"title": "HPE Codewars 2021 2nd Place",
-			"date": "30-04-2021",
-			"awarder": "Hewlett Packard Enterprise",
-			"summary": "Placed 2nd amongst 2500+ participants"
-		},
-		{
-			"title": "IOITC 2021 Qualifier",
-			"date": "30-04-2021",
-			"awarder": "Indian Association for Research in Computing Science",
-			"summary": "One of the top 40 students of India to be selected for the International Olympiad of Informatics Training Camp"
-		},
-		{
-			"title": "INSEF 2020 Regional Gold Medallist and National Finalist",
-			"date": "31-01-2020, 31-01-2021",
-			"awarder": "Science Society of India",
-			"summary": "Qualifier at INSEF National Fair. National Gold Medallist in 2021"
-		},
-		{
-			"title": "IRIS National Fair Finalist",
-			"date": "31-01-2020, 31-01-2021",
-			"awarder": "Exstemplar Education Foundation, Department of Science and Technology India",
-			"summary": "Top 100 projects at IRIS National Fair"
-		},
-		{
-			"title": "Toyota Hackathon Winner",
-			"date": "30-11-2019",
-			"awarder": "Toyota Kirloskar Motor Private Limited, Indian Road Safety Campaign",
-			"summary": "1st Place out of 750+ teams"
-		},
-		{
-			"title": "IITB Techfest Innovation Challenge Winner",
-			"date": "31-01-2020",
-			"awarder": "Indian Institute of Technology Bombay",
-			"summary": "1st place at IIT Bombay Techfest's Innovation Challenge for my project \"A smart Irrigation-as-a-Service (SIAS) solution for reducing water consumption in sugarcane\"."
-		},
-		{
-			"title": "Asia Pacific Linguistics Olympiad Bronze Medallist",
-			"date": "30-05-2019",
-			"awarder": "Asia Pacific Linguistics Olympiad",
-			"summary": "6th place amongst Indian contestants in APLO"
-		},
-		{
-			"title": "Panini Linguistics Olympiad National Camp Qualifier",
-			"date": "30-05-2019, 28-02-2021",
-			"awarder": "Panini Linguistics Olympiad",
-			"summary": "One of top 40 students to qualify for the national camp at Panini Linguistics Olympiad. Reservse team for IOL in 2021"
-		},
-		{
-			"title": "World Robot Olympiad India National Finalist",
-			"date": "30-10-2016",
-			"awarder": "World Robot Olympiad",
-			"summary": "Qualifier for Indian National Round of World Robot Olympiad"
-		}
-	],
-	"publications": [],
-	"skills": [
-		{
-			"name": "Python (Programming Language)",
-			"level": "Advanced",
-			"keywords": []
-		},
-		{
-			"name": "C++",
-			"level": "Advanced",
-			"keywords": []
-		},
-		{
-			"name": "Java",
-			"level": "Intermediate",
-			"keywords": []
-		},
-		{
-			"name": "Algorithms",
-			"level": "Advanced",
-			"keywords": []
-		},
-		{
-			"name": "Android Development",
-			"level": "Intermediate",
-			"keywords": []
-		}
-	],
-	"languages": [
-		{
-			"language": "English",
-			"fluency": "Native Speaker"
-		}
-	],
-	"interests": [
-		{
-			"name": "Linguistics",
-			"keywords": []
-		},
-		{
-			"name": "Competitive Programming",
-			"keywords": []
-		},
-		{
-			"name": "Computational Neuroscience",
-			"keywords": []
-		}
-	],
-	"references": [],
-	"projects": [
-		{
-			"name": "SMART",
-			"description": "Stroke Monitoring And Rehabilitation using Technology",
-			"highlights": [
-				"Genius Olympiad Gold Award",
-				"GYSTB Second Place Award",
-				"IRIS National Fair 2021 Finalist",
-				"INSEF 2021 National Gold Medallist"
-			],
-			"keywords": [],
-			"startDate": "30-04-2020",
-			"endDate": "30-06-2021",
-			"url": "github.com/SiddhantAttavar/SMART",
-			"roles": [],
-			"entity": "",
-			"type": ""
-		},
-		{
-			"name": "DriveSafe",
-			"description": "A smartphone app to monitor reckless driving behaviours",
-			"highlights": [
-				"Toyota Hackathon Winner",
-				"IRIS National Fair 2020 Finalist",
-				"INSEF 2020 Regional Gold Medallist and National Finalist"
-			],
-			"keywords": [],
-			"startDate": "30-04-2019",
-			"endDate": "31-01-2020",
-			"url": "github.com/SiddhantAttavar/DriveSafe",
-			"roles": [],
-			"entity": "",
-			"type": ""
-		}
-	]
+    "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+    "basics": {
+        "name": "Siddhant Attavar",
+        "label": "IOL Silver Medalist | APLO Medalist | APIO Medalist | IOITC Qualifier | IRIS Finalist",
+        "image": "",
+        "email": "siddhantattavar12@gmail.com",
+        "phone": "+91 7618737666",
+        "url": "",
+        "summary": "I am a high school student at NPS Indiranagar. My main interests are competitive programming, linguistics, machine learning, and bioinformatics (particularly computational neuroscience). I have developed several apps and products which have won awards at the international level. I also have a keen interest in the International Linguistics Olympiad (IOL) and International Informatics Olympiad (IOI).",
+        "location": {
+            "countryCode": "US",
+            "address": "L 1802 Brigade Metropolis, Mahadevapura, Whitefield, Bengaluru, India"
+        },
+        "profiles": [
+            {
+                "network": "LinkedIn",
+                "username": "siddhantattavar",
+                "url": "https://www.linkedin.com/in/siddhantattavar/"
+            }
+        ]
+    },
+    "work": [
+        {
+            "name": "National Public School",
+            "position": "Student",
+            "startDate": "2018-06-30",
+            "endDate": "",
+            "highlights": [],
+            "summary": null,
+            "url": "https://www.linkedin.com/company/13628417",
+            "location": "Bengaluru, Karnataka, India"
+        }
+    ],
+    "volunteer": [],
+    "education": [
+        {
+            "institution": "National Public School",
+            "area": "",
+            "studyType": "High School Diploma",
+            "startDate": "2018-06-30",
+            "endDate": "2023-04-30",
+            "score": "",
+            "courses": []
+        },
+        {
+            "institution": "Inventure Academy",
+            "area": "",
+            "studyType": "High School Diploma",
+            "startDate": "2014-06-30",
+            "endDate": "2018-04-30",
+            "score": "",
+            "courses": []
+        },
+        {
+            "institution": "Global Indian International School East Coast, Singapore",
+            "area": "",
+            "studyType": "High School Diploma",
+            "startDate": "2011-06-30",
+            "endDate": "2014-04-30",
+            "score": "",
+            "courses": []
+        }
+    ],
+    "awards": [
+        {
+            "title": "International Linguistics Olympiad Silver Medal",
+            "date": "2022-07-31",
+            "awarder": "International Linguistics Olympiad, Lingomann",
+            "summary": "Received a silver medal in the International Linguistics Olympiad, 2022 held in Isle of Man, UK. Came 28th out of 200+ participants. Got the highest score from India. Results: https://ioling.org/results/2022/"
+        },
+        {
+            "title": "Asia Pacific Informatics Olympiad Bronze Medal",
+            "date": "2022-05-31",
+            "awarder": "Asia Pacific Informatics Olympiad",
+            "summary": "2nd place amongst Indian contestants in APIO. Results: https://www.apio2022.org/ranking"
+        },
+        {
+            "title": "Asia Pacific Linguistics Olympiad Bronze Medal",
+            "date": "2022-04-30",
+            "awarder": "Asia Pacific Linguistics Olympiad",
+            "summary": "3rd place amongst Indian contestants in APLO. Results: https://aplo.asia/results/aplo-2022-results/"
+        },
+        {
+            "title": "HPE Codewars 2022 4th Place",
+            "date": "2022-04-30",
+            "awarder": "Hewlett Packard Enterprise",
+            "summary": "Placed 4th amongst 2500+ participants. Got a chance to run an experiment on the HPE Spaceborne-2 supercomputer onboard the International Space Station. Results: https://www.codingal.com/competitions/hpe-codewars-2022-code-battle/leaderboard/"
+        },
+        {
+            "title": "PLO 2022 National Camp Silver Medallist",
+            "date": "2022-04-30",
+            "awarder": "Panini Linguistics Olympiad",
+            "summary": "One of top 40 students to qualify for the national camp at Panini Linguistics Olympiad. Qualified for the Indian team for Internation Linguistics Olympiad with 3rd rank. Results: https://ltrc.iiit.ac.in/nlpmt/plo/#/previous/"
+        },
+        {
+            "title": "INOI 2022 Bronze",
+            "date": "2022-02-28",
+            "awarder": "Indian Association for Research in Computing Science",
+            "summary": "One of the top 60 students of India at the Indian National Olympiad of Informatics. Results: https://www.iarcs.org.in/inoi/2022/inoi2022/results_inoi2022.php#medals"
+        },
+        {
+            "title": "IRIS National Fair 2022 Finalist",
+            "date": "2022-01-31",
+            "awarder": "Exstemplar Education Foundation, Department of Science and Technology, India · Jan 2022",
+            "summary": "Top 100 projects at IRIS National Fair for \"SimAID - an agent-based simulation model and decision support tool for pandemics\". Results: https://www.irisnationalfair.org/uploads/Shortlist_IRIS_National_Fair_2021_22.pdf"
+        },
+        {
+            "title": "GYSTB 2021 Second Prize Winner",
+            "date": "2021-06-30",
+            "awarder": "Hong Kong Federation of Youth Groups",
+            "summary": "Second Prize at Global Youth Science and Technology Bowl 2021 for project \"Stroke Monitoring And Rehabilitation using Technology\". Results: https://hkfyg.org.hk/en/2021/06/25/gystb2021/"
+        },
+        {
+            "title": "Genius Olympiad 2021 Gold Award Winner",
+            "date": "2021-06-30",
+            "awarder": "Genius Olympiad",
+            "summary": "Gold Award in Science Category of Genius Olympiad for project \"Stroke Monitoring And Rehabilitation using Technology\". Results: https://geniuscountries.s3.us-east-2.amazonaws.com/GENIUS_2020_2021_Awardee_List.pdf"
+        },
+        {
+            "title": "HPE Codewars 2021 2nd Place",
+            "date": "2021-04-30",
+            "awarder": "Hewlett Packard Enterprise",
+            "summary": "Placed 2nd amongst 2500+ participants. Got a chance to run an experiment on the HPE Spaceborne-2 supercomputer onboard the International Space Station. Results: https://www.codingal.com/competitions/hpe-codewars-2021/leaderboard/"
+        }
+    ],
+    "certificates": [],
+    "publications": [],
+    "languages": [
+        {
+            "fluency": "Native Speaker",
+            "language": "English"
+        },
+        {
+            "fluency": "Limited Working",
+            "language": "Hindi"
+        },
+        {
+            "fluency": "Elementary",
+            "language": "Sanskrit"
+        },
+        {
+            "fluency": "Elementary",
+            "language": "Spanish"
+        }
+    ],
+    "interests": [],
+    "references": [],
+    "projects": [
+        {
+            "name": "SMART: Stroke Monitoring And Rehabilitation using Technology",
+            "startDate": "2020-04-30",
+            "summary": "Stroke experts say it is crucial to develop innovative, technology-driven strategies to meet the growing needs of stroke survivors in India. SMART is a comprehensive solution for stroke care comprising of - 1. SMART EEG headset and 2. SMART app having diagnostic and rehabilitation tools.\n\nI have developed the SMART EEG headset - a wearable EEG device costing less than ₹7,000 (US$100), several times cheaper than commercial EEG devices. It consists of 1. An ergonomic 3-D printed headset., 2. A signal processing module using a low-cost Arduino board and EEG Click (an IC to amplify and filter bio-signals). The EEG signals from the headset are analyzed using Fourier transforms (FFT) for classification into alpha, beta, and theta waves in the SMART app.\n\nThe SMART app developed using Android SDK in Java has two key modules - 1. Stroke Diagnostics and 2.Rehabilitation. The diagnosis module uses EEG to calculate DAR levels and identify stroke patients and the rehabilitation module has an interactive game based on EEG neurofeedback training to help stroke patients improve their alpha brainwave activity and aid recovery. \n\nIn order to test the reliability of the SMART EEG headset, I conducted experiments. Each experiment tested a particular stage of the EEG data acquisition process, namely: collecting the raw EEG data, calculating the frequency spectrum and lastly detecting changes in the brainwave state.\n\nI believe SMART could radically improve the delivery of medical care to stroke patients as it is low-cost and easily-accessible, and it empowers the stroke patient to recover at home with minimal medical assistance.",
+            "url": null,
+            "endDate": "2021-06-30"
+        },
+        {
+            "name": "DriveSafe: A smartphone app to monitor reckless driving behaviors",
+            "startDate": "2019-05-31",
+            "summary": "What is the problem?-\nRoad accidents killed 13.5 lakh people globally in 2018. They are the single largest cause of death for those in the age group of 15-45. Reckless driving is responsible for 90% of road deaths. In order to make our roads safer, a cost-effective and accessible method is needed to monitor and track reckless driving.\n\nMy solution-\nI have developed an Android smartphone application, DriveSafe, which detects reckless driving behaviours in real-time.\n\nSteps for development-\nI identified the major reckless driving behaviours. These are:\n  a. Overspeeding\n  b. Sudden braking\n  c. Sudden acceleration\n  d. Sharp turning\t\n\nI developed an app which detects the above behaviours. In this app:\n  a. Accelerometer sensor is used to measure acceleration in 3D space. Haversine formula is applied to calculate distances and speed from GPS coordinates. \n  b. The data collected is stored in a csv file for later analysis.\n  c. The user interface was integrated with Google Maps API to provide the user with an interactive experience.\n\nThe app was run on Bangalore roads over 2 months. The acceleration in all 3 axes, the speed, the time and the location of the vehicle was recorded every second. Using the data, I set appropriate thresholds for the rash driving behaviours.\n\nDriveSafe can be used to monitor reckless driving behaviours with a high accuracy and improve road safety by individuals, fleet operators, insurance companies, and traffic police.",
+            "url": null,
+            "endDate": "2020-02-28"
+        }
+    ],
+    "meta": {
+        "version": "v1.0.0",
+        "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+    }
 }
