@@ -85,7 +85,7 @@
 			"summary": "2nd place amongst Indian contestants in APIO. Results: https://www.apio2022.org/ranking"
 		},
 		{
-			"title": "Asia Pacific Linguistics Olympiad Bronze Medal",
+			"title": "Asia Pacific Linguistics Olympiad 2019/22 Bronze Medal",
 			"date": "2022-04-30",
 			"awarder": "Asia Pacific Linguistics Olympiad",
 			"summary": "3rd place amongst Indian contestants in APLO. Results: https://aplo.asia/results/aplo-2022-results/"
@@ -121,7 +121,38 @@
 			"summary": "Won 1st place in IITB Techfest's Innovation Challenge for my project \"A smart Irrigation-as-a-Service (SIAS) solution for reducing water consumption in sugarcane\"."
 		}
 	],
-	"skills": [],
+	"skills": [
+		{
+			"name": "Python",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Data Structures and Algorithms",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Android Development",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "C++",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Computational Neuroscience",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Linux",
+			"level": "",
+			"keywords": []
+		}
+	],
 	"certificates": [],
 	"publications": [],
 	"languages": [],
@@ -156,6 +187,7 @@
 		}
 	],
 	"meta": {
+		"theme": "kendall",
 		"version": "v1.0.0",
 		"canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
 	}
