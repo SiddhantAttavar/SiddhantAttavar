@@ -22,7 +22,7 @@ SiddhantAttavar = Developer(
     projects = [
         'DriveSafe: A smartphone app to monitor reckless driving behaviours',
         'SMART: Stroke Monitoring And Rehabilitation using Technology',
-	'SimAID: Simulating and Analyzing Infectious Diseases'
+        'SimAID: Simulating and Analyzing Infectious Diseases'
     ],
 )
 ```
