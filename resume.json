@@ -2,7 +2,7 @@
 	"$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
 	"basics": {
 		"name": "Siddhant Attavar",
-		"label": "IOL Silver Medalist | APLO Medalist | APIO Medalist | IOITC Qualifier | IRIS Finalist",
+		"label": "IOL Silver Medallist | APLO Medallist | APIO Medallist | IOITC Qualifier | Rise Global Winner | IRIS Finalist",
 		"image": "https://raw.githubusercontent.com/SiddhantAttavar/SiddhantAttavar/main/image.jpg",
 		"email": "siddhantattavar12@gmail.com",
 		"phone": "",
@@ -41,7 +41,7 @@
 	"volunteer": [],
 	"education": [
 		{
-			"institution": "National Public School",
+			"institution": "National Public School, Indiranagar",
 			"url": "https://www.npsinr.com/",
 			"area": "",
 			"studyType": "High School Diploma",
@@ -59,77 +59,99 @@
 			"endDate": "2018-04-30",
 			"score": "",
 			"courses": []
-		},
-		{
-			"institution": "Global Indian International School East Coast, Singapore",
-			"url": "https://singapore.globalindianschool.org/east-coast",
-			"area": "",
-			"studyType": "High School Diploma",
-			"startDate": "2011-06-30",
-			"endDate": "2014-04-30",
-			"score": "",
-			"courses": []
 		}
 	],
 	"awards": [
 		{
-			"title": "Rise Global Winner",
-			"date": "2022-09-30",
-			"awarder": "Schmidt Futures, Rhodes Trust",
-			"summary": "Top 100 students selected to be part of the 2022 Rise Global Winner cohort out of 80,000 applicants. Results: https://www.risefortheworld.org/global-winners"
+			"awarder": "INOI Silver Medallist",
+			"date": "2023-02-28",
+			"title": "Indian Association for Research in Computer Science",
+			"summary": "One of the top 30 students of India at the Indian National Olympiad of Informatics. Results: https://www.iarcs.org.in/inoi/2023/inoi2023/results_inoi2023.php#medals"
 		},
 		{
-			"title": "International Linguistics Olympiad Silver Medal",
+			"awarder": "Rise Global Winner",
+			"date": "2022-09-30",
+			"title": "Schmidt Futures, Rhodes Trust",
+			"summary": "Top 100 students selected to be part of the 2022 Rise Global Winner cohort out of 80,000 applicants. Rise is an initiative of Schmidt Futures and the Rhodes Trust that finds brilliant people who need opportunity and supports them for life as they work to serve others. Results: https://www.risefortheworld.org/global-winners"
+		},
+		{
+			"awarder": "International Linguistics Olympiad Silver Medal",
 			"date": "2022-07-31",
-			"awarder": "International Linguistics Olympiad, Lingomann",
+			"title": "International Linguistics Olympiad, Lingomann",
 			"summary": "Received a silver medal in the International Linguistics Olympiad, 2022 held in Isle of Man, UK. Came 28th out of 200+ participants. Got the highest score from India. Results: https://ioling.org/results/2022/"
 		},
 		{
-			"title": "Asia Pacific Informatics Olympiad Bronze Medal",
+			"awarder": "Asia Pacific Informatics Olympiad Bronze Medal",
 			"date": "2022-05-31",
-			"awarder": "Asia Pacific Informatics Olympiad",
+			"title": "Asia Pacific Informatics Olympiad",
 			"summary": "2nd place amongst Indian contestants in APIO. Results: https://www.apio2022.org/ranking"
 		},
 		{
-			"title": "Asia Pacific Linguistics Olympiad 2019/22 Bronze Medal",
-			"date": "2022-04-30",
-			"awarder": "Asia Pacific Linguistics Olympiad",
-			"summary": "3rd place amongst Indian contestants in APLO. Results: https://aplo.asia/results/aplo-2022-results/"
-		},
-		{
-			"title": "HPE Codewars 2021 2nd place; 2022 4th Place",
-			"date": "2022-04-30",
-			"awarder": "Hewlett Packard Enterprise",
-			"summary": "Placed 2nd in 2021 and 4th in 2022 amongst 2500+ participants. Got a chance to run an experiment on the HPE Spaceborne-2 supercomputer onboard the International Space Station. Results: https://www.codingal.com/competitions/hpe-codewars-2022-code-battle/leaderboard/"
-		},
-		{
-			"title": "IRIS National Fair 2020/21/22 Finalist",
-			"date": "2022-01-31",
-			"awarder": "Exstemplar Education Foundation; Department of Science and Technology, India · Jan 2022",
-			"summary": "Top 100 projects at IRIS National Fair for my projects: 1. SimAID - an agent-based simulation model and decision support tool for pandemics; 2. SMART: Stroke Monitoring and Rehabilitation using Technology.; 3. DriveSafe: A smartphone app to monitor reckless driving behaviours. Results: https://www.irisnationalfair.org"
-		},
-		{
-			"title": "GYSTB 2021 Second Prize Winner",
+			"awarder": "GYSTB Second Prize Winner",
 			"date": "2021-06-30",
-			"awarder": "Hong Kong Federation of Youth Groups",
+			"title": "Hong Kong Federation of Youth Groups",
 			"summary": "Second Prize at Global Youth Science and Technology Bowl 2021 for project \"Stroke Monitoring And Rehabilitation using Technology\". Results: https://hkfyg.org.hk/en/2021/06/25/gystb2021/"
 		},
 		{
-			"title": "Genius Olympiad 2021 Gold Award Winner",
+			"awarder": "Genius Olympiad Gold Award Winner",
 			"date": "2021-06-30",
-			"awarder": "Genius Olympiad",
+			"title": "Genius Olympiad",
 			"summary": "Gold Award in Science Category of Genius Olympiad for project \"Stroke Monitoring And Rehabilitation using Technology\". Results: https://geniuscountries.s3.us-east-2.amazonaws.com/GENIUS_2020_2021_Awardee_List.pdf"
 		},
 		{
-			"title": "IITB Techfest Innovation Challenge Winner",
+			"awarder": "IOITC Qualifier",
+			"date": "2021-04-30",
+			"title": "Indian Association for Research in Computer Science",
+			"summary": "One of the top 40 students of India to be selected for the International Olympiad of Informatics Training Camp. Results: https://www.iarcs.org.in/inoi/2021/inoi2021/results_inoi2021.php"
+		},
+		{
+			"awarder": "INSEF Regional and National Fair Gold Medallist",
+			"date": "2021-01-31",
+			"title": "Science Society of India",
+			"summary": "Gold Medalist at INSEF National Fair for project \"SMART: Stroke Monitoring And Rehabilitation using Technology\". Results: http://sciencesociety.in/insef/INSEF_Valedictory_Presentation_2020_21.pdf"
+		},
+		{
+			"awarder": "IRIS National Fair 2020,21,22 Finalist",
 			"date": "2020-01-31",
-			"awarder": "Indian Institute of Technology, Bombay",
+			"title": "Exstemplar Education Foundation; Department of Science and Technology, India · Jan 2022",
+			"summary": "Top 100 projects at IRIS National Fair for my projects: 1. SimAID - an agent-based simulation model and decision support tool for pandemics; 2. SMART: Stroke Monitoring and Rehabilitation using Technology.; 3. DriveSafe: A smartphone app to monitor reckless driving behaviours. Results: https://www.irisnationalfair.org"
+		},
+		{
+			"awarder": "IITB Techfest Innovation Challenge Winner",
+			"date": "2020-01-31",
+			"title": "Indian Institute of Technology, Bombay",
 			"summary": "Won 1st place in IITB Techfest's Innovation Challenge for my project \"A smart Irrigation-as-a-Service (SIAS) solution for reducing water consumption in sugarcane\"."
+		},
+		{
+			"awarder": "Asia Pacific Linguistics Olympiad 2019,22 Bronze Medal",
+			"date": "2019-04-30",
+			"title": "Asia Pacific Linguistics Olympiad",
+			"summary": "3rd place amongst Indian contestants in APLO. Results: https://aplo.asia/results/aplo-2019-results/"
 		}
 	],
 	"skills": [
 		{
-			"name": "Python",
+			"name": "Bioinformatics",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Python (Programming Language)",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "C++",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Linguistics",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Java",
 			"level": "",
 			"keywords": []
 		},
@@ -176,24 +198,24 @@
 	"references": [],
 	"projects": [
 		{
-			"name": "SimAID: Simulating and Analyzing Infectious Diseases",
-			"description": "The Covid-19 pandemic has shown the importance of decision support tools to help policy-makers optimally time intervention policies while balancing socio-economic costs. My project, SimAID, is an agent-based model that simulates the spread of an infectious disease while also analyzing the impact of policy measures like lock-downs, vaccinations, etc. I made several design choices to allow SimAID to best model real-life behavior. First, I chose an agent-based model over a purely mathematical model to allow for the demographic heterogeneity of the population. A graph-based, probabilistic agent movement system using grids was then developed to model real-life interaction between segments of the population. The primary bottleneck of the simulation is the detection of collisions between agents. To reduce the computational intensity, I have developed efficient algorithms for identifying contacts between agents. Finally, I have tested SimAID using metrics like the basic reproductive number, herd immunity, and doubling time to give an insight into the impact of a disease on the population. SimAID’s design is extensible enough for it to be integrated with other data modules like GPS data for contact tracing, census data for demographic profiles, etc. in the future. I plan to make SimAID an open-source project so that researchers can play around with viral profiles having different incubation periods, infectivity, and mortality rates, leading to better insights into pandemic progression curves. I hope SimAID will help policy-makers be better prepared for a world where the opening of Pandora’s box may no longer be just a myth.",
+			"name": "SimAID - Simulating and Analyzing Infectious Diseases",
+			"description": "A novel agent-based epidemiological model that allows policymakers to simulate and analyze intervention policies for various pandemics. See more: https://siddhantattavar.github.io/SimAID/",
 			"highlights": [],
 			"startDate": "2021-03-31",
 			"endDate": "2022-02-28",
 			"url": "https://github.com/SiddhantAttavar/SimAID"
 		},
 		{
-			"name": "SMART: Stroke Monitoring And Rehabilitation using Technology",
-			"description": "Stroke experts say it is crucial to develop innovative, technology-driven strategies to meet the growing needs of stroke survivors in India. SMART is a comprehensive solution for stroke care comprising of - 1. SMART EEG headset and 2. SMART app having diagnostic and rehabilitation tools.\n\nI have developed the SMART EEG headset - a wearable EEG device costing less than ₹7,000 (US$100), several times cheaper than commercial EEG devices. It consists of 1. An ergonomic 3-D printed headset., 2. A signal processing module using a low-cost Arduino board and EEG Click (an IC to amplify and filter bio-signals). The EEG signals from the headset are analyzed using Fourier transforms (FFT) for classification into alpha, beta, and theta waves in the SMART app.\n\nThe SMART app developed using Android SDK in Java has two key modules - 1. Stroke Diagnostics and 2.Rehabilitation. The diagnosis module uses EEG to calculate DAR levels and identify stroke patients and the rehabilitation module has an interactive game based on EEG neurofeedback training to help stroke patients improve their alpha brainwave activity and aid recovery. \n\nIn order to test the reliability of the SMART EEG headset, I conducted experiments. Each experiment tested a particular stage of the EEG data acquisition process, namely: collecting the raw EEG data, calculating the frequency spectrum and lastly detecting changes in the brainwave state.\n\nI believe SMART could radically improve the delivery of medical care to stroke patients as it is low-cost and easily-accessible, and it empowers the stroke patient to recover at home with minimal medical assistance.",
+			"name": "SMART - Stroke Monitoring And Rehabilitation using Technology",
+			"description": "A technology based solution aimed at addressing the gaps in stroke rehabilitation services in India using EEG based brainwave anaysis and state-of-the-art machine learning techniques. See more: https://siddhantattavar.github.io/SMART/",
 			"highlights": [],
 			"startDate": "2020-04-30",
 			"endDate": "2021-06-30",
 			"url": "https://github.com/SiddhantAttavar/SMART"
 		},
 		{
-			"name": "DriveSafe: A smartphone app to monitor reckless driving behaviors",
-			"description": "What is the problem?-\nRoad accidents killed 13.5 lakh people globally in 2018. They are the single largest cause of death for those in the age group of 15-45. Reckless driving is responsible for 90% of road deaths. In order to make our roads safer, a cost-effective and accessible method is needed to monitor and track reckless driving.\n\nMy solution-\nI have developed an Android smartphone application, DriveSafe, which detects reckless driving behaviours in real-time.\n\nSteps for development-\nI identified the major reckless driving behaviours. These are:\n  a. Overspeeding\n  b. Sudden braking\n  c. Sudden acceleration\n  d. Sharp turning\t\n\nI developed an app which detects the above behaviours. In this app:\n  a. Accelerometer sensor is used to measure acceleration in 3D space. Haversine formula is applied to calculate distances and speed from GPS coordinates. \n  b. The data collected is stored in a csv file for later analysis.\n  c. The user interface was integrated with Google Maps API to provide the user with an interactive experience.\n\nThe app was run on Bangalore roads over 2 months. The acceleration in all 3 axes, the speed, the time and the location of the vehicle was recorded every second. Using the data, I set appropriate thresholds for the rash driving behaviours.\n\nDriveSafe can be used to monitor reckless driving behaviours with a high accuracy and improve road safety by individuals, fleet operators, insurance companies, and traffic police.",
+			"name": "DriveSafe - A smartphone app to monitor reckless driving behaviors",
+			"description": "A smartphone applicantion which uses inbuilt smartphone sensors to detect reckless driving behaviours in real-time and provide feedback in an effort to improve road safety in India. See more: https://siddhantattavar.github.io/DriveSafe/",
 			"highlights": [],
 			"startDate": "2019-05-31",
 			"endDate": "2020-02-28",
