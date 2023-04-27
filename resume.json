@@ -2,7 +2,7 @@
 	"$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
 	"basics": {
 		"name": "Siddhant Attavar",
-		"label": "IOL Silver Medallist | APLO Medallist | APIO Medallist | IOITC Qualifier | Rise Global Winner | IRIS Finalist",
+		"label": "IOL Silver Medallist | APLO Silver Medallist | APIO Bronze Medallist | IOITC Qualifier | Rise Global Winner | IRIS Finalist",
 		"image": "https://raw.githubusercontent.com/SiddhantAttavar/SiddhantAttavar/main/image.jpg",
 		"email": "siddhantattavar12@gmail.com",
 		"phone": "",
@@ -63,6 +63,12 @@
 	],
 	"awards": [
 		{
+			"awarder": "Asia Pacific Linguistics Olympiad Silver Medallist",
+			"date": "2023-04-26",
+			"title": "Asia Pacific Linguistics Olympiad",
+			"summary": "Secured an APLO silver medal with the highest score from India. Results: https://aplo.asia/results/aplo-2023-results/"
+		},
+		{
 			"awarder": "INOI Silver Medallist",
 			"date": "2023-02-28",
 			"title": "Indian Association for Research in Computer Science",
@@ -75,13 +81,13 @@
 			"summary": "Top 100 students selected to be part of the 2022 Rise Global Winner cohort out of 80,000 applicants. Rise is an initiative of Schmidt Futures and the Rhodes Trust that finds brilliant people who need opportunity and supports them for life as they work to serve others. Results: https://www.risefortheworld.org/global-winners"
 		},
 		{
-			"awarder": "International Linguistics Olympiad Silver Medal",
+			"awarder": "International Linguistics Olympiad Silver Medallist",
 			"date": "2022-07-31",
 			"title": "International Linguistics Olympiad, Lingomann",
 			"summary": "Received a silver medal in the International Linguistics Olympiad, 2022 held in Isle of Man, UK. Came 28th out of 200+ participants. Got the highest score from India. Results: https://ioling.org/results/2022/"
 		},
 		{
-			"awarder": "Asia Pacific Informatics Olympiad Bronze Medal",
+			"awarder": "Asia Pacific Informatics Olympiad Bronze Medallist",
 			"date": "2022-05-31",
 			"title": "Asia Pacific Informatics Olympiad",
 			"summary": "2nd place amongst Indian contestants in APIO. Results: https://www.apio2022.org/ranking"
@@ -123,7 +129,7 @@
 			"summary": "Won 1st place in IITB Techfest's Innovation Challenge for my project \"A smart Irrigation-as-a-Service (SIAS) solution for reducing water consumption in sugarcane\"."
 		},
 		{
-			"awarder": "Asia Pacific Linguistics Olympiad 2019,22 Bronze Medal",
+			"awarder": "Asia Pacific Linguistics Olympiad 2019,22 Bronze Medallist",
 			"date": "2019-04-30",
 			"title": "Asia Pacific Linguistics Olympiad",
 			"summary": "3rd place amongst Indian contestants in APLO. Results: https://aplo.asia/results/aplo-2019-results/"
