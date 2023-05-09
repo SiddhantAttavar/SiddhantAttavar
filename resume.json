@@ -6,7 +6,7 @@
 		"image": "https://raw.githubusercontent.com/SiddhantAttavar/SiddhantAttavar/main/image.jpg",
 		"email": "siddhantattavar12@gmail.com",
 		"phone": "",
-		"url": "https://siddhantattavar.github.io/",
+		"url": "https://siddhantattavar.com/",
 		"summary": "I am a high school student at NPS Indiranagar. My main interests are competitive programming, linguistics, machine learning, and bioinformatics (particularly computational neuroscience). I have developed several apps and products which have won awards at the international level. I also have a keen interest in the International Linguistics Olympiad (IOL) and International Informatics Olympiad (IOI).",
 		"location": {
 			"address": "L 1802 Brigade Metropolis, Mahadevapura, Whitefield, Bengaluru, India",
@@ -205,7 +205,7 @@
 	"projects": [
 		{
 			"name": "SimAID - Simulating and Analyzing Infectious Diseases",
-			"description": "A novel agent-based epidemiological model that allows policymakers to simulate and analyze intervention policies for various pandemics. See more: https://siddhantattavar.github.io/SimAID/",
+			"description": "A novel agent-based epidemiological model that allows policymakers to simulate and analyze intervention policies for various pandemics. See more: https://siddhantattavar.com/SimAID/",
 			"highlights": [],
 			"startDate": "2021-03-31",
 			"endDate": "2022-02-28",
@@ -213,7 +213,7 @@
 		},
 		{
 			"name": "SMART - Stroke Monitoring And Rehabilitation using Technology",
-			"description": "A technology based solution aimed at addressing the gaps in stroke rehabilitation services in India using EEG based brainwave anaysis and state-of-the-art machine learning techniques. See more: https://siddhantattavar.github.io/SMART/",
+			"description": "A technology based solution aimed at addressing the gaps in stroke rehabilitation services in India using EEG based brainwave anaysis and state-of-the-art machine learning techniques. See more: https://siddhantattavar.com/SMART/",
 			"highlights": [],
 			"startDate": "2020-04-30",
 			"endDate": "2021-06-30",
@@ -221,7 +221,7 @@
 		},
 		{
 			"name": "DriveSafe - A smartphone app to monitor reckless driving behaviors",
-			"description": "A smartphone applicantion which uses inbuilt smartphone sensors to detect reckless driving behaviours in real-time and provide feedback in an effort to improve road safety in India. See more: https://siddhantattavar.github.io/DriveSafe/",
+			"description": "A smartphone applicantion which uses inbuilt smartphone sensors to detect reckless driving behaviours in real-time and provide feedback in an effort to improve road safety in India. See more: https://siddhantattavar.com/DriveSafe/",
 			"highlights": [],
 			"startDate": "2019-05-31",
 			"endDate": "2020-02-28",
