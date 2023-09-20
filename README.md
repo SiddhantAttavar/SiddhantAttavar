@@ -7,12 +7,12 @@
 ```python
 SiddhantAttavar = Developer(
 	name = 'Siddhant Attavar',
-	education_level = 'High School (12th Grade / Senior)',
+	education = 'Freshman, CS @ BITS Pilani',
 	work_experience = None,
 	interests = [
 		'Competitive Programming',
 		'Bioinformatics',
-		'Machine Learning',
+		'Neurotechnology',
 	],
 	languages = [
 		'Python',
