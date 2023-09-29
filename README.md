@@ -10,14 +10,9 @@ SiddhantAttavar = Developer(
 	education = 'Freshman, CS @ BITS Pilani',
 	work_experience = None,
 	interests = [
-		'Competitive Programming',
 		'Bioinformatics',
-		'Neurotechnology',
-	],
-	languages = [
-		'Python',
-		'C++',
-		'Java',
+		'Brain Computer Interfaces',
+		'Competitive Programming',
 	],
 	projects = [
 		'DriveSafe: A smartphone app to monitor reckless driving behaviours',
