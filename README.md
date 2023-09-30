@@ -7,8 +7,7 @@
 ```python
 SiddhantAttavar = Developer(
 	name = 'Siddhant Attavar',
-	education = 'Freshman, CS @ BITS Pilani',
-	work_experience = None,
+	education = 'CS @ BITS Pilani',
 	interests = [
 		'Bioinformatics',
 		'Brain Computer Interfaces',
