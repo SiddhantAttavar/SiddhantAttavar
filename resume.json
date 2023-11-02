@@ -41,6 +41,16 @@
 	"volunteer": [],
 	"education": [
 		{
+			"institution": "Birla Institute of Technology and Science Pilani, Pilani Campus",
+			"url": "https://www.bits-pilani.ac.in/pilani",
+			"area": "Computer Science",
+			"studyType": "Bachelor of Engineering (Hons.)",
+			"startDate": "2023-08-31",
+			"endDate": "2027-05-30",
+			"score": "",
+			"courses": []
+		},
+		{
 			"institution": "National Public School, Indiranagar",
 			"url": "https://www.npsinr.com/",
 			"area": "",
