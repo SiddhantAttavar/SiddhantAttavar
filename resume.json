@@ -2,12 +2,12 @@
 	"$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
 	"basics": {
 		"name": "Siddhant Attavar",
-		"label": "IOL Medallist | APLO Medallist | APIO Medallist | IOITC Qualifier | Rise Global Winner | IRIS Finalist",
+		"label": "CS @ BITS Pilani | Rise Global Winner '22 | IOL '22 | APIO '22",
 		"image": "https://raw.githubusercontent.com/SiddhantAttavar/SiddhantAttavar/main/image.jpg",
 		"email": "siddhantattavar12@gmail.com",
 		"phone": "",
 		"url": "https://siddhantattavar.com/",
-		"summary": "I am a high school student at NPS Indiranagar. My main interests are competitive programming, linguistics, machine learning, and bioinformatics (particularly computational neuroscience). I have developed several apps and products which have won awards at the international level. I also have a keen interest in the International Linguistics Olympiad (IOL) and International Informatics Olympiad (IOI).",
+		"summary": "I am a freshman studying Computer Science at Birla Institute of Technology and Science Pilani, Pilani Campus. My main interests are competitive programming, linguistics, machine learning, bioinformatics and neurotechnology. I have developed several apps and products which have won awards at the international level. I also have a keen interest in ICPC, IOL and IOI.",
 		"location": {
 			"address": "L 1802 Brigade Metropolis, Mahadevapura, Whitefield, Bengaluru, India",
 			"postalCode": "560048",
@@ -72,6 +72,12 @@
 		}
 	],
 	"awards": [
+		{
+			"awarder": "ICPC Regional Finalist",
+			"date": "2023-11-30",
+			"title": "Inter Collegiate Programming Contest",
+			"summary": "Received a rank of 53 in the pan-India ICPC India Preliminary Contest 2023 and qualified for the Kanpur and Chennai regionals. Results: https://codedrills.io/contests/icpc-india-preliminary-2023/scoreboardReceived a rank of 53 in the pan-India ICPC India Preliminary Contest 2023 and qualified for the Kanpur and Chennai regionals. Results: https://codedrills.io/contests/icpc-india-preliminary-2023/scoreboard"
+		},
 		{
 			"awarder": "Asia Pacific Linguistics Olympiad Silver Medallist",
 			"date": "2023-04-26",
