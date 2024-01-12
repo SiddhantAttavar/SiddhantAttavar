@@ -47,7 +47,7 @@
 			"studyType": "Bachelor of Engineering (Hons.)",
 			"startDate": "2023-08-31",
 			"endDate": "2027-05-30",
-			"score": "",
+			"score": "9.6 CGPA",
 			"courses": []
 		},
 		{
@@ -59,24 +59,20 @@
 			"endDate": "2023-04-30",
 			"score": "",
 			"courses": []
-		},
-		{
-			"institution": "Inventure Academy",
-			"url": "https://www.inventureacademy.com/",
-			"area": "",
-			"studyType": "High School Diploma",
-			"startDate": "2014-06-30",
-			"endDate": "2018-04-30",
-			"score": "",
-			"courses": []
 		}
 	],
 	"awards": [
 		{
-			"awarder": "ICPC Regional Finalist",
+			"awarder": "ICPC Chennai Regional Participant",
+			"date": "2024-01-31",
+			"title": "Inter Collegiate Programming Contest",
+			"summary": "Received a rank of 22 in the India ICPC Chennai On-site Contest 2023. Results: https://icpc.codedrills.io/contests/icpc-chennai-2023-regional-round/scoreboard"
+		},
+		{
+			"awarder": "ICPC Chennai and Kanpur Regional Qualifier",
 			"date": "2023-11-30",
 			"title": "Inter Collegiate Programming Contest",
-			"summary": "Received a rank of 53 in the pan-India ICPC India Preliminary Contest 2023 and qualified for the Kanpur and Chennai regionals. Results: https://codedrills.io/contests/icpc-india-preliminary-2023/scoreboardReceived a rank of 53 in the pan-India ICPC India Preliminary Contest 2023 and qualified for the Kanpur and Chennai regionals. Results: https://codedrills.io/contests/icpc-india-preliminary-2023/scoreboard"
+			"summary": "Received a rank of 53 in the pan-India ICPC India Preliminary Contest 2023 and qualified for the Kanpur and Chennai regionals. Results: https://codedrills.io/contests/icpc-india-preliminary-2023/scoreboard"
 		},
 		{
 			"awarder": "Asia Pacific Linguistics Olympiad Silver Medallist",
