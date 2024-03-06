@@ -2,12 +2,12 @@
 	"$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
 	"basics": {
 		"name": "Siddhant Attavar",
-		"label": "CS @ BITS Pilani | Rise Global Winner '22 | IOL '22 | APIO '22",
+		"label": "CS @ BITS Pilani | Rise Global Winner '22 | IOL '22 | APIO '22 | ICPC Regionalist '23",
 		"image": "https://raw.githubusercontent.com/SiddhantAttavar/SiddhantAttavar/main/image.jpg",
 		"email": "siddhantattavar12@gmail.com",
 		"phone": "",
 		"url": "https://siddhantattavar.com/",
-		"summary": "I am a freshman studying Computer Science at Birla Institute of Technology and Science Pilani, Pilani Campus. My main interests are competitive programming, linguistics, machine learning, bioinformatics and neurotechnology. I have developed several apps and products which have won awards at the international level. I also have a keen interest in ICPC, IOL and IOI.",
+		"summary": "I am a freshman studying Computer Science at Birla Institute of Technology and Science Pilani, Pilani Campus. My main interests are competitive programming, bioinformatics and neurotechnology. I have developed several projects which have won awards at the international level. I also have a keen interest in ICPC, IOL and IOI.",
 		"location": {
 			"address": "L 1802 Brigade Metropolis, Mahadevapura, Whitefield, Bengaluru, India",
 			"postalCode": "560048",
@@ -38,6 +38,14 @@
 			}
 		]
 	},
+	"work": [
+		{
+			"name": "Undergraduate Researcher",
+			"position": "Birla Institute of Technology and Science Pilani, Pilani Campus",
+			"description": "Pursuing research on \"Development of a Histopathalogy-based Cancer Diagnostic Platform using Machine Learning in a team of 4 under the SPARKLE (Student Program for Advancing Research, KnowLedge and Entrepreneurship) program\"",
+			"startDate": "2023-10-01"
+		}
+	],
 	"volunteer": [],
 	"education": [
 		{
@@ -48,7 +56,14 @@
 			"startDate": "2023-08-31",
 			"endDate": "2027-05-30",
 			"score": "9.6 CGPA",
-			"courses": []
+			"courses": [
+				"Student Program for Advancing Research KnowLedge and Entrepreneurship (SPARKLE)",
+				"Postman API Lab (Neurotech, Competitive Coding, App Development)",
+				"Coding Club (Competitive Coding)",
+				"Google Developer Student Chapter (Competitive Coding)",
+				"Biology Association",
+				"Inspired Karters Electric"
+			]
 		},
 		{
 			"institution": "National Public School, Indiranagar",
@@ -154,7 +169,27 @@
 			"keywords": []
 		},
 		{
-			"name": "Python (Programming Language)",
+			"name": "Data Structures and Algorithms",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Computational Neuroscience",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Machine Learning",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Biotechnology",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Python",
 			"level": "",
 			"keywords": []
 		},
@@ -167,39 +202,16 @@
 			"name": "Linguistics",
 			"level": "",
 			"keywords": []
-		},
-		{
-			"name": "Java",
-			"level": "",
-			"keywords": []
-		},
-		{
-			"name": "Data Structures and Algorithms",
-			"level": "",
-			"keywords": []
-		},
-		{
-			"name": "Android Development",
-			"level": "",
-			"keywords": []
-		},
-		{
-			"name": "C++",
-			"level": "",
-			"keywords": []
-		},
-		{
-			"name": "Computational Neuroscience",
-			"level": "",
-			"keywords": []
-		},
-		{
-			"name": "Linux",
-			"level": "",
-			"keywords": []
 		}
 	],
-	"certificates": [],
+	"certificates": [
+		{
+			"name": "edX Verified Cretified for Essentials of Genomics and Biomedical Informatics",
+			"date": "2023-08-31",
+			"url": "https://courses.edx.org/certificates/1d97ba7997bf407aa8db6176af4100a3",
+			"issuer": "edX"
+		}
+	],
 	"publications": [],
 	"languages": [],
 	"interests": [
@@ -207,10 +219,10 @@
 			"name": "Competitive Programming"
 		},
 		{
-			"name": "Linguistics"
+			"name": "Computational Biology"
 		},
 		{
-			"name": "Computational Neuroscience"
+			"name": "Brain Computer Interfaces"
 		}
 	],
 	"references": [],
