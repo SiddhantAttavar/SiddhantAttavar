@@ -2,12 +2,12 @@
 	"$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
 	"basics": {
 		"name": "Siddhant Attavar",
-		"label": "CS @ BITS Pilani | Rise Winner '22 | IOL '22 | APIO '22 | ICPC Regionals '23",
+		"label": "CS @ BITS Pilani | Rise Winner '22 | ICPC World Finals '24 | IOL '22 | APIO '22",
 		"image": "https://raw.githubusercontent.com/SiddhantAttavar/SiddhantAttavar/main/image.jpg",
 		"email": "siddhantattavar12@gmail.com",
 		"phone": "",
 		"url": "https://siddhantattavar.com/",
-		"summary": "I am a sophomore studying Computer Science at Birla Institute of Technology and Science Pilani, Pilani Campus. I have a keen interest in competitive programming and have won awards at several prestigious competitions like ICPC, IOI and IOL.",
+		"summary": "",
 		"location": {
 			"address": "L 1802 Brigade Metropolis, Mahadevapura, Whitefield, Bengaluru, India",
 			"postalCode": "560048",
@@ -23,34 +23,31 @@
 			},
 			{
 				"network": "Github",
-				"username": "SiddhantAttavar",
+				"username": "Github: SiddhantAttavar",
 				"url": "https://www.github.com/siddhantattavar/"
 			},
 			{
 				"network": "LinkedIn",
-				"username": "SiddhantAttavar",
+				"username": "LinkedIn: SiddhantAttavar",
 				"url": "https://www.linkedin.com/in/siddhantattavar/"
 			},
 			{
-				"network": "Stopstalk",
-				"username": "SiddhantAttavar",
+				"network": "Stopstalk (Competitive Programming)",
+				"username": "Stopstalk (Competitive Programming): SiddhantAttavar",
 				"url": "https://www.stopstalk.com/user/profile/siddhantattavar"
-			},
-			{
-				"network": "Youtube",
-				"username": "SiddhantAttavar",
-				"url": "https://youtube.com/channel/UCGTLB_auqT8asc7kd7qiueg"
 			}
 		]
 	},
+	"summary": "",
 	"work": [
 		{
-			"position": "Research Intern, IEEE EMBS IIT Kharagpur",
-			"description": "",
+			"position": "Research Intern, Indian Institute of Technology Kharagpur",
+			"summary": "Developed machine learning models in OpenViBE for motor imagery classification in EEG data",
 			"startDate": "2024-06-01"
 		},
 		{
 			"position": "Undergraduate Researcher, SPARKLE, BITS Pilani",
+			"summary": "Worked on a histopathalogy based breast cancer diagnostic platform using machine learning",
 			"startDate": "2023-10-01"
 		}
 	],
@@ -59,77 +56,76 @@
 		{
 			"institution": "Birla Institute of Technology and Science Pilani, Pilani Campus",
 			"url": "https://www.bits-pilani.ac.in/pilani",
-			"area": "Computer Science",
+			"area": "Computer Science | CGPA: 9.54/10.0",
 			"studyType": "Bachelor of Engineering (Hons.)",
 			"startDate": "2023-08-31",
 			"endDate": "2027-05-30",
-			"score": "9.6 CGPA",
-			"courses": [
-			]
+			"score": "CGPA: 9.54/10.0"
 		},
 		{
 			"institution": "National Public School, Indiranagar",
 			"url": "https://www.npsinr.com/",
-			"area": "",
+			"area": " | 10th: 93.8%; 12th: 96.6%",
 			"studyType": "High School Diploma",
 			"startDate": "2018-06-30",
 			"endDate": "2023-04-30",
-			"score": "",
-			"courses": []
+			"score": "96.6%"
 		}
 	],
 	"awards": [
 		{
-			"title": "ICPC Chennai and Kanpur Regional Qualifier",
-			"date": "2023-11-30",
+			"title": "ICPC World Finalist 2024",
+			"date": "2023-09-19",
 			"awarder": "Inter Collegiate Programming Contest"
 		},
 		{
-			"title": "Asia Pacific Linguistics Olympiad Silver Medallist",
+			"title": "Asia Pacific Linguistics Olympiad Bronze 2019,22; Silver 2023",
 			"date": "2023-04-26",
 			"awarder": "Asia Pacific Linguistics Olympiad"
 		},
 		{
-			"title": "Rise Global Winner (Top 100/80k)",
-			"date": "2022-09-30",
+			"title": "Rise Global Winner 2022 (Top 100/80k)",
+			"date": "2022-09-22",
 			"awarder": "Schmidt Futures, Rhodes Trust"
 		},
 		{
-			"title": "International Linguistics Olympiad Silver Medallist",
+			"title": "International Linguistics Olympiad Silver 2022",
 			"date": "2022-07-31",
-			"awarder": "International Linguistics Olympiad, Lingomann"
+			"awarder": "International Linguistics Olympiad"
 		},
 		{
-			"title": "Asia Pacific Informatics Olympiad Bronze Medallist",
+			"title": "Asia Pacific Informatics Olympiad Bronze 2022",
 			"date": "2022-05-31",
 			"awarder": "Asia Pacific Informatics Olympiad"
-		},
-		{
-			"title": "Asia Pacific Linguistics Olympiad 2019,22 Bronze Medallist",
-			"date": "2019-04-30",
-			"awarder": "Asia Pacific Linguistics Olympiad"
 		}
 	],
 	"skills": [
 		{
-			"name": "Data Structures and Algorithms",
-			"level": "",
-			"keywords": []
+			"name": "Neurotechnology",
+			"keywords": [
+				"EEG",
+				"EMG",
+				"BCI",
+				"Signal Processing"
+			]
 		},
 		{
-			"name": "Machine Learning",
-			"level": "",
-			"keywords": []
+			"name": "Algorithms",
+			"keywords": [
+				"Data structures",
+				"Graph Theory"
+			]
 		},
 		{
-			"name": "Python",
-			"level": "",
-			"keywords": []
+			"name": "Machine Learning"
 		},
 		{
-			"name": "C++",
-			"level": "",
-			"keywords": []
+			"name": "Programming Lanugages",
+			"keywords": [
+				"Python",
+				"C++",
+				"Java"
+			]
 		}
 	],
 	"certificates": [
@@ -147,38 +143,41 @@
 			"name": "Competitive Programming"
 		},
 		{
-			"name": "Computational Biology"
+			"name": "Brain Computer Interfaces"
 		},
 		{
-			"name": "Brain Computer Interfaces"
+			"name": "Computational Biology"
 		}
 	],
 	"references": [],
 	"projects": [
 		{
 			"name": "SimAID - Simulating and Analyzing Infectious Diseases",
+			"summary": "A computational epidemiological model designed to help public health policymakers find the optimal balance between public and economic health during pandemics and epidemics",
 			"highlights": [],
 			"startDate": "2021-03-31",
 			"endDate": "2022-02-28",
-			"url": "https://github.com/SiddhantAttavar/SimAID"
+			"url": "https://siddhantattavar.com/projects/simaid"
 		},
 		{
 			"name": "SMART - Stroke Monitoring And Rehabilitation using Technology",
+			"summary": "A EEG based device that uses brainwave activity and neurofeedback techniques, as well as machine learning to assist stroke patients during diagnosis and rehabilitation",
 			"highlights": [],
 			"startDate": "2020-04-30",
 			"endDate": "2021-06-30",
-			"url": "https://github.com/SiddhantAttavar/SMART"
+			"url": "https://siddhantattavar.com/projects/smart"
 		},
 		{
-			"name": "DriveSafe - A mobile app to monitor reckless driving behaviors",
+			"name": "DriveSafe",
+			"summary": "A mobile application which monitors driving behaviours and identifies reckless driving patterns",
 			"highlights": [],
 			"startDate": "2019-05-31",
 			"endDate": "2020-02-28",
-			"url": "https://github.com/SiddhantAttavar/DriveSafe"
+			"url": "https://siddhantattavar.com/projects/drivesafe"
 		}
 	],
 	"meta": {
-		"theme": "jsonresume-theme-professional",
+		"theme": "jsonresume-theme-macchiato",
 		"version": "v1.0.0",
 		"canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
 	}
