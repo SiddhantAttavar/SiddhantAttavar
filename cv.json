@@ -1,0 +1,304 @@
+{
+	"$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+	"basics": {
+		"name": "Siddhant Attavar",
+		"label": "CS @ BITS Pilani | Rise Winner '22 | ICPC World Finals '24 | IOL '22 | APIO '22",
+		"image": "https://raw.githubusercontent.com/SiddhantAttavar/SiddhantAttavar/main/image.jpg",
+		"email": "siddhantattavar12@gmail.com",
+		"phone": "",
+		"url": "https://siddhantattavar.com/",
+		"summary": "I am a sophomore studying Computer Science at Birla Institute of Technology and Science Pilani, Pilani Campus. I am interested in computational biology, neurotechnology, and machine learning. I also have a keen interest in participating in various olympiads, particularly in linguistics and informatics, as well as prestigious competitive programming competitions like ICPC.",
+		"location": {
+			"address": "L 1802 Brigade Metropolis, Mahadevapura, Whitefield, Bengaluru, India",
+			"postalCode": "560048",
+			"city": "Bengaluru",
+			"countryCode": "IND",
+			"region": "India"
+		},
+		"profiles": [
+			{
+				"network": "website",
+				"username": "Personal website",
+				"url": "https://siddhantattavar.com/"
+			},
+			{
+				"network": "Github",
+				"username": "Github: SiddhantAttavar",
+				"url": "https://www.github.com/siddhantattavar/"
+			},
+			{
+				"network": "LinkedIn",
+				"username": "LinkedIn: SiddhantAttavar",
+				"url": "https://www.linkedin.com/in/siddhantattavar/"
+			},
+			{
+				"network": "Stopstalk (Competitive Programming)",
+				"username": "Stopstalk (Competitive Programming): SiddhantAttavar",
+				"url": "https://www.stopstalk.com/user/profile/siddhantattavar"
+			}
+		]
+	},
+	"work": [
+		{
+			"position": "Research Intern, Indian Institute of Technology Kharagpur",
+			"summary": "Developed machine learning models in OpenViBE for motor imagery classification in EEG data",
+			"highlights": [
+				"Developed CSP spatial filters to de-noise EEG data",
+				"Created a versatile, modular testing system for benchmarking ML models used for EEG analysis",
+				"Designed LDA, SVM and CNN based ML models for EEG motor activity classification",
+				"Deployed ML models in VR game"
+			],
+			"startDate": "2024-06-01"
+		},
+		{
+			"position": "Undergraduate Researcher, SPARKLE, BITS Pilani",
+			"summary": "Worked on a histopathalogy based breast cancer diagnostic platform using machine learning",
+			"highlights": [
+				"Created diagnostic pipeline for benchmarking models",
+				"Made GAN based stain-augmentation model",
+				"Used image deconvolution to create stain-invariance system for histopathological images",
+				"Contributed to tumour classification model that used semi-supervised learning and transfer learning"
+			],
+			"startDate": "2023-10-01"
+		}
+	],
+	"education": [
+		{
+			"institution": "Birla Institute of Technology and Science Pilani, Pilani Campus",
+			"url": "https://www.bits-pilani.ac.in/pilani",
+			"area": "Computer Science",
+			"studyType": "Bachelor of Engineering (Hons.)",
+			"startDate": "2023-08-31",
+			"endDate": "2027-05-30",
+			"score": "9.54 CGPA",
+			"courses": [
+				"Founder, Neurotech Lab",
+				"Student Program for Advancing Research KnowLedge and Entrepreneurship (SPARKLE)",
+				"Vertical Lead, Postman API Lab (Neurotech, Competitive Coding, App Development)",
+				"Coding Club (Competitive Coding)",
+				"Google Developer Student Chapter (Competitive Coding)",
+				"Biology Association",
+				"Inspired Karters Electric"
+			]
+		},
+		{
+			"institution": "National Public School, Indiranagar",
+			"url": "https://www.npsinr.com/",
+			"area": "",
+			"studyType": "High School Diploma",
+			"startDate": "2018-06-30",
+			"endDate": "2023-04-30",
+			"score": "",
+			"courses": [
+				"Founder, Linguistics Clubs",
+				"President, Cyber Association"
+			]
+		}
+	],
+	"awards": [
+		{
+			"title": "ICPC World Finalist 2024",
+			"date": "2023-09-19",
+			"awarder": "Inter Collegiate Programming Contest",
+			"summary": "Participated in the ICPC World Finals at Astana, Kazakhstan and secured global rank of 107 as well as an Indian rank of 7. Results: https://scoreboard.icpc.global/2024/scoreboard/"
+		},
+		{
+			"title": "ICPC Chennai Regional Participant",
+			"date": "2024-01-31",
+			"awarder": "Inter Collegiate Programming Contest",
+			"summary": "Received a rank of 22 in the India ICPC Chennai On-site Contest 2023. Results: https://icpc.codedrills.io/contests/icpc-chennai-2023-regional-round/scoreboard"
+		},
+		{
+			"title": "Asia Pacific Linguistics Olympiad Silver Medallist",
+			"date": "2023-04-26",
+			"awarder": "Asia Pacific Linguistics Olympiad",
+			"summary": "Secured an APLO silver medal with the highest score from India. Results: https://aplo.asia/results/aplo-2023-results/"
+		},
+		{
+			"title": "INOI Silver Medallist",
+			"date": "2023-02-28",
+			"awarder": "Indian Association for Research in Computer Science",
+			"summary": "One of the top 30 students of India at the Indian National Olympiad of Informatics. Results: https://www.iarcs.org.in/inoi/2023/inoi2023/results_inoi2023.php#medals"
+		},
+		{
+			"title": "Rise Global Winner",
+			"date": "2022-09-30",
+			"awarder": "Schmidt Futures, Rhodes Trust",
+			"summary": "Top 100 students selected to be part of the 2022 Rise Global Winner cohort out of 80,000 applicants. Rise is an initiative of Schmidt Futures and the Rhodes Trust that finds brilliant people who need opportunity and supports them for life as they work to serve others. Results: https://www.risefortheworld.org/global-winners"
+		},
+		{
+			"title": "International Linguistics Olympiad Silver Medallist",
+			"date": "2022-07-31",
+			"awarder": "International Linguistics Olympiad, Lingomann",
+			"summary": "Received a silver medal in the International Linguistics Olympiad, 2022 held in Isle of Man, UK. Came 28th out of 200+ participants. Got the highest score from India. Results: https://ioling.org/results/2022/"
+		},
+		{
+			"title": "Asia Pacific Informatics Olympiad Bronze Medallist",
+			"date": "2022-05-31",
+			"awarder": "Asia Pacific Informatics Olympiad",
+			"summary": "2nd place amongst Indian contestants in APIO. Results: https://www.apio2022.org/ranking"
+		},
+		{
+			"title": "GYSTB Second Prize Winner",
+			"date": "2021-06-30",
+			"awarder": "Hong Kong Federation of Youth Groups",
+			"summary": "Second Prize at Global Youth Science and Technology Bowl 2021 for project \"Stroke Monitoring And Rehabilitation using Technology\". Results: https://hkfyg.org.hk/en/2021/06/25/gystb2021/"
+		},
+		{
+			"title": "Genius Olympiad Gold Award Winner",
+			"date": "2021-06-30",
+			"awarder": "Genius Olympiad",
+			"summary": "Gold Award in Science Category of Genius Olympiad for project \"Stroke Monitoring And Rehabilitation using Technology\". Results: https://geniuscountries.s3.us-east-2.amazonaws.com/GENIUS_2020_2021_Awardee_List.pdf"
+		},
+		{
+			"title": "IOITC Qualifier",
+			"date": "2021-04-30",
+			"awarder": "Indian Association for Research in Computer Science",
+			"summary": "One of the top 40 students of India to be selected for the International Olympiad of Informatics Training Camp. Results: https://www.iarcs.org.in/inoi/2021/inoi2021/results_inoi2021.php"
+		},
+		{
+			"title": "INSEF Regional and National Fair Gold Medallist",
+			"date": "2021-01-31",
+			"awarder": "Science Society of India",
+			"summary": "Gold Medalist at INSEF National Fair for project \"SMART: Stroke Monitoring And Rehabilitation using Technology\". Results: http://sciencesociety.in/insef/INSEF_Valedictory_Presentation_2020_21.pdf"
+		},
+		{
+			"title": "IRIS National Fair 2020,21,22 Finalist",
+			"date": "2020-01-31",
+			"awarder": "Exstemplar Education Foundation; Department of Science and Technology, India · Jan 2022",
+			"summary": "Top 100 projects at IRIS National Fair for my projects: 1. SimAID - an agent-based simulation model and decision support tool for pandemics; 2. SMART: Stroke Monitoring and Rehabilitation using Technology.; 3. DriveSafe: A smartphone app to monitor reckless driving behaviours. Results: https://www.irisnationalfair.org"
+		},
+		{
+			"title": "IITB Techfest Innovation Challenge Winner",
+			"date": "2020-01-31",
+			"awarder": "Indian Institute of Technology, Bombay",
+			"summary": "Won 1st place in IITB Techfest's Innovation Challenge for my project \"A smart Irrigation-as-a-Service (SIAS) solution for reducing water consumption in sugarcane\"."
+		},
+		{
+			"title": "Asia Pacific Linguistics Olympiad 2019,22 Bronze Medallist",
+			"date": "2019-04-30",
+			"awarder": "Asia Pacific Linguistics Olympiad",
+			"summary": "3rd place amongst Indian contestants in APLO. Results: https://aplo.asia/results/aplo-2019-results/"
+		},
+		{
+			"title": "World Robot Olympiad India National Finalist",
+			"date": "2016-11-30",
+			"awarder": "World Robot Olympiad Association",
+			"summary": "Qualified for Indian National Round of World Robot Olympiad"
+		}
+	],
+	"skills": [
+		{
+			"name": "Neurotechnology",
+			"keywords": [
+				"EEG",
+				"EMG",
+				"BCI",
+				"Signal Processing"
+			]
+		},
+		{
+			"name": "Algorithms",
+			"keywords": [
+				"Data structures",
+				"Graph Theory"
+			]
+		},
+		{
+			"name": "Machine Learning",
+			"keywords": [
+				"Neural networks",
+				"CNNs",
+				"GANs"
+			]
+		},
+		{
+			"name": "Programming Lanugages",
+			"keywords": [
+				"Python",
+				"C++",
+				"Java"
+			]
+		},
+		{
+			"name": "Computational Biology",
+			"level": "",
+			"keywords": [
+				"Network biology",
+				"Computational genomics"
+			]
+		},
+		{
+			"name": "Linguistics",
+			"level": "",
+			"keywords": [
+				"Computational linguistics",
+				"Morphology",
+				"Sematics"
+			]
+		}
+	],
+	"certificates": [
+		{
+			"name": "edX Verified Cretified for Essentials of Genomics and Biomedical Informatics",
+			"date": "2023-08-31",
+			"url": "https://courses.edx.org/certificates/1d97ba7997bf407aa8db6176af4100a3",
+			"issuer": "edX"
+		}
+	],
+	"languages": [
+		{
+			"language": "English"
+		},
+		{
+			"language": "Hindi"
+		}
+	],
+	"interests": [
+		{
+			"name": "Competitive Programming"
+		},
+		{
+			"name": "Computational Biology"
+		},
+		{
+			"name": "Machine Learning"
+		},
+		{
+			"name": "Brain Computer Interfaces"
+		},
+		{
+			"name": "Linguistics"
+		}
+	],
+	"projects": [
+		{
+			"name": "SimAID - Simulating and Analyzing Infectious Diseases",
+			"description": "A novel agent-based epidemiological model that allows policymakers to simulate and analyze intervention policies for various pandemics. See more: https://siddhantattavar.com/projects/simaid/",
+			"highlights": [],
+			"startDate": "2021-03-31",
+			"endDate": "2022-02-28",
+			"url": "https://siddhantattavar.com/projects/simaid/"
+		},
+		{
+			"name": "SMART - Stroke Monitoring And Rehabilitation using Technology",
+			"description": "A technology based solution aimed at addressing the gaps in stroke rehabilitation services in India using EEG based brainwave anaysis and state-of-the-art machine learning techniques. See more: https://siddhantattavar.com/projects/smart/",
+			"highlights": [],
+			"startDate": "2020-04-30",
+			"endDate": "2021-06-30",
+			"url": "https://github.com/SiddhantAttavar/projects/smart/"
+		},
+		{
+			"name": "DriveSafe - A smartphone app to monitor reckless driving behaviors",
+			"description": "A smartphone applicantion which uses inbuilt smartphone sensors to detect reckless driving behaviours in real-time and provide feedback in an effort to improve road safety in India. See more: https://siddhantattavar.com/projects/drivesafe/",
+			"highlights": [],
+			"startDate": "2019-05-31",
+			"endDate": "2020-02-28",
+			"url": "https://github.com/SiddhantAttavar/projects/drivesafe/"
+		}
+	],
+	"meta": {
+		"version": "v1.0.0",
+		"canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+	}
+}
