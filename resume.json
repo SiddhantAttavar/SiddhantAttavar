@@ -79,11 +79,6 @@
 			"awarder": "Inter Collegiate Programming Contest"
 		},
 		{
-			"title": "Asia Pacific Linguistics Olympiad Bronze 2019,22; Silver 2023",
-			"date": "2023-04-26",
-			"awarder": "Asia Pacific Linguistics Olympiad"
-		},
-		{
 			"title": "Rise Global Winner 2022 (Top 100/80k)",
 			"date": "2022-09-22",
 			"awarder": "Schmidt Futures, Rhodes Trust"
@@ -97,6 +92,11 @@
 			"title": "Asia Pacific Informatics Olympiad Bronze 2022",
 			"date": "2022-05-31",
 			"awarder": "Asia Pacific Informatics Olympiad"
+		},
+		{
+			"title": "Asia Pacific Linguistics Olympiad Bronze 2019,22; Silver 2023",
+			"date": "2023-04-26",
+			"awarder": "Asia Pacific Linguistics Olympiad"
 		}
 	],
 	"skills": [
@@ -105,8 +105,7 @@
 			"keywords": [
 				"EEG",
 				"EMG",
-				"BCI",
-				"Signal Processing"
+				"BCI"
 			]
 		},
 		{
@@ -117,7 +116,12 @@
 			]
 		},
 		{
-			"name": "Machine Learning"
+			"name": "Machine Learning",
+			"keywords": [
+				"LLM",
+				"CNN",
+				"SSL"
+			]
 		},
 		{
 			"name": "Programming Lanugages",
