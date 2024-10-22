@@ -38,7 +38,6 @@
 			}
 		]
 	},
-	"summary": "",
 	"work": [
 		{
 			"position": "Research Intern, Indian Institute of Technology Kharagpur",
@@ -181,7 +180,7 @@
 		}
 	],
 	"meta": {
-		"theme": "jsonresume-theme-macchiato",
+		"theme": "macchiato",
 		"version": "v1.0.0",
 		"canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
 	}
