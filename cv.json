@@ -48,7 +48,18 @@
 				"Designed LDA, SVM and CNN based ML models for EEG motor activity classification",
 				"Deployed ML models in VR game"
 			],
-			"startDate": "2024-06-01"
+			"startDate": "2024-06-01",
+			"endDate": "2024-10-01"
+		},
+		{
+			"position": "Founder Neurotech Lab, BITS Pilani",
+			"summary": "Led research initiatives in the field of computational neuroscience and neurotechnology",
+			"highlights": [
+				"Using reinforcement learning algorithms for channel reduction in P300 spellers",
+				"Created EMG based digital interface system for gaming",
+				"Conducted workshop for 150+ students about neurotechnology and EEG signal analysis"
+			],
+			"startDate": "2024-02-01"
 		},
 		{
 			"position": "Undergraduate Researcher, SPARKLE, BITS Pilani",
@@ -66,11 +77,10 @@
 		{
 			"institution": "Birla Institute of Technology and Science Pilani, Pilani Campus",
 			"url": "https://www.bits-pilani.ac.in/pilani",
-			"area": "Computer Science",
-			"studyType": "Bachelor of Engineering (Hons.)",
+			"area": "Computer Science; 9.54 CGPA (Grade scale: 2-10)",
+			"studyType": "B.E. (Hons.)",
 			"startDate": "2023-08-31",
 			"endDate": "2027-05-30",
-			"score": "9.54 CGPA",
 			"courses": [
 				"Founder, Neurotech Lab",
 				"Student Program for Advancing Research KnowLedge and Entrepreneurship (SPARKLE)",
@@ -78,17 +88,17 @@
 				"Coding Club (Competitive Coding)",
 				"Google Developer Student Chapter (Competitive Coding)",
 				"Biology Association",
-				"Inspired Karters Electric"
+				"Inspired Karters Electric",
+				"Society for Theoritical Sciences"
 			]
 		},
 		{
 			"institution": "National Public School, Indiranagar",
 			"url": "https://www.npsinr.com/",
-			"area": "",
+			"area": "10th: 93.8%, 12th: 96.6%",
 			"studyType": "High School Diploma",
 			"startDate": "2018-06-30",
 			"endDate": "2023-04-30",
-			"score": "",
 			"courses": [
 				"Founder, Linguistics Club",
 				"President, Cyber Association"
@@ -97,34 +107,10 @@
 	],
 	"awards": [
 		{
-			"title": "ICPC World Finalist 2024",
+			"title": "Inter Collegiate Programming Competition World Finalist 2024",
 			"date": "2023-09-19",
 			"awarder": "Inter Collegiate Programming Contest",
 			"summary": "Participated in the ICPC World Finals at Astana, Kazakhstan and secured global rank of 107 as well as an Indian rank of 7. Results: https://scoreboard.icpc.global/2024/scoreboard/"
-		},
-		{
-			"title": "ICPC Chennai Regional Participant",
-			"date": "2024-01-31",
-			"awarder": "Inter Collegiate Programming Contest",
-			"summary": "Received a rank of 22 in the India ICPC Chennai On-site Contest 2023. Results: https://icpc.codedrills.io/contests/icpc-chennai-2023-regional-round/scoreboard"
-		},
-		{
-			"title": "Asia Pacific Linguistics Olympiad Silver Medallist",
-			"date": "2023-04-26",
-			"awarder": "Asia Pacific Linguistics Olympiad",
-			"summary": "Secured an APLO silver medal with the highest score from India. Results: https://aplo.asia/results/aplo-2023-results/"
-		},
-		{
-			"title": "INOI Silver Medallist",
-			"date": "2023-02-28",
-			"awarder": "Indian Association for Research in Computer Science",
-			"summary": "One of the top 30 students of India at the Indian National Olympiad of Informatics. Results: https://www.iarcs.org.in/inoi/2023/inoi2023/results_inoi2023.php#medals"
-		},
-		{
-			"title": "Rise Global Winner",
-			"date": "2022-09-30",
-			"awarder": "Schmidt Futures, Rhodes Trust",
-			"summary": "Top 100 students selected to be part of the 2022 Rise Global Winner cohort out of 80,000 applicants. Rise is an initiative of Schmidt Futures and the Rhodes Trust that finds brilliant people who need opportunity and supports them for life as they work to serve others. Results: https://www.risefortheworld.org/global-winners"
 		},
 		{
 			"title": "International Linguistics Olympiad Silver Medallist",
@@ -139,58 +125,29 @@
 			"summary": "2nd place amongst Indian contestants in APIO. Results: https://www.apio2022.org/ranking"
 		},
 		{
-			"title": "GYSTB Second Prize Winner",
-			"date": "2021-06-30",
-			"awarder": "Hong Kong Federation of Youth Groups",
-			"summary": "Second Prize at Global Youth Science and Technology Bowl 2021 for project \"Stroke Monitoring And Rehabilitation using Technology\". Results: https://hkfyg.org.hk/en/2021/06/25/gystb2021/"
+			"title": "Asia Pacific Linguistics Olympiad Silver (2023), Bronze (2019,22) Medallist",
+			"date": "2023-04-26",
+			"awarder": "Asia Pacific Linguistics Olympiad",
+			"summary": "Secured an APLO silver medal in 2023 and was the youngest ever APLO medallist from India in 2019. Results: https://aplo.asia/results/"
 		},
 		{
-			"title": "Genius Olympiad Gold Award Winner",
-			"date": "2021-06-30",
-			"awarder": "Genius Olympiad",
-			"summary": "Gold Award in Science Category of Genius Olympiad for project \"Stroke Monitoring And Rehabilitation using Technology\". Results: https://geniuscountries.s3.us-east-2.amazonaws.com/GENIUS_2020_2021_Awardee_List.pdf"
-		},
-		{
-			"title": "IOITC Qualifier",
-			"date": "2021-04-30",
-			"awarder": "Indian Association for Research in Computer Science",
-			"summary": "One of the top 40 students of India to be selected for the International Olympiad of Informatics Training Camp. Results: https://www.iarcs.org.in/inoi/2021/inoi2021/results_inoi2021.php"
-		},
-		{
-			"title": "INSEF Regional and National Fair Gold Medallist",
-			"date": "2021-01-31",
-			"awarder": "Science Society of India",
-			"summary": "Gold Medalist at INSEF National Fair for project \"SMART: Stroke Monitoring And Rehabilitation using Technology\". Results: http://sciencesociety.in/insef/INSEF_Valedictory_Presentation_2020_21.pdf"
+			"title": "Rise Global Winner",
+			"date": "2022-09-30",
+			"awarder": "Schmidt Futures, Rhodes Trust",
+			"summary": "Top 100 students selected to be part of the 2022 Rise Global Winner cohort out of 80,000 applicants. Results: https://www.risefortheworld.org/global-winners"
 		},
 		{
 			"title": "IRIS National Fair 2020,21,22 Finalist",
 			"date": "2020-01-31",
 			"awarder": "Exstemplar Education Foundation; Department of Science and Technology, India · Jan 2022",
 			"summary": "Top 100 projects at IRIS National Fair for my projects: 1. SimAID - an agent-based simulation model and decision support tool for pandemics; 2. SMART: Stroke Monitoring and Rehabilitation using Technology.; 3. DriveSafe: A smartphone app to monitor reckless driving behaviours. Results: https://www.irisnationalfair.org"
-		},
-		{
-			"title": "IITB Techfest Innovation Challenge Winner",
-			"date": "2020-01-31",
-			"awarder": "Indian Institute of Technology, Bombay",
-			"summary": "Won 1st place in IITB Techfest's Innovation Challenge for my project \"A smart Irrigation-as-a-Service (SIAS) solution for reducing water consumption in sugarcane\"."
-		},
-		{
-			"title": "Asia Pacific Linguistics Olympiad 2019,22 Bronze Medallist",
-			"date": "2019-04-30",
-			"awarder": "Asia Pacific Linguistics Olympiad",
-			"summary": "3rd place amongst Indian contestants in APLO. Results: https://aplo.asia/results/aplo-2019-results/"
-		},
-		{
-			"title": "World Robot Olympiad India National Finalist",
-			"date": "2016-11-30",
-			"awarder": "World Robot Olympiad Association",
-			"summary": "Qualified for Indian National Round of World Robot Olympiad"
 		}
 	],
 	"skills": [
 		{
 			"name": "Neurotechnology",
 			"keywords": [
+				"Computational modelling",
 				"EEG",
 				"EMG",
 				"BCI",
@@ -208,6 +165,7 @@
 			"name": "Machine Learning",
 			"keywords": [
 				"Neural networks",
+				"RNNs",
 				"CNNs",
 				"GANs"
 			]
@@ -286,7 +244,7 @@
 			"highlights": [],
 			"startDate": "2020-04-30",
 			"endDate": "2021-06-30",
-			"url": "https://github.com/SiddhantAttavar/projects/smart/"
+			"url": "https://siddhantattavar.com/projects/smart/"
 		},
 		{
 			"name": "DriveSafe - A smartphone app to monitor reckless driving behaviors",
@@ -294,7 +252,7 @@
 			"highlights": [],
 			"startDate": "2019-05-31",
 			"endDate": "2020-02-28",
-			"url": "https://github.com/SiddhantAttavar/projects/drivesafe/"
+			"url": "https://siddhantattavar.com/projects/drivesafe/"
 		}
 	],
 	"meta": {
