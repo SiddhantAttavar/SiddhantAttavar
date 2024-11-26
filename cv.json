@@ -7,7 +7,7 @@
 		"email": "siddhantattavar12@gmail.com",
 		"phone": "",
 		"url": "https://siddhantattavar.com/",
-		"summary": "I am a sophomore studying Computer Science at Birla Institute of Technology and Science Pilani, Pilani Campus. I am interested in computational biology, neurotechnology, and machine learning. I also have a keen interest in participating in various olympiads, particularly in linguistics and informatics, as well as prestigious competitive programming competitions like ICPC.",
+		"summary": "I am a sophomore studying Computer Science at Birla Institute of Technology and Science Pilani, Pilani Campus. I am interested in conducting research within the fields of computational biology, neurotechnology, and machine learning. I also have a keen interest in participating in various olympiads, particularly in linguistics and informatics, as well as prestigious competitive programming competitions like ICPC.",
 		"location": {
 			"address": "L 1802 Brigade Metropolis, Mahadevapura, Whitefield, Bengaluru, India",
 			"postalCode": "560048",
@@ -41,19 +41,19 @@
 	"work": [
 		{
 			"position": "Research Intern, Indian Institute of Technology Kharagpur",
-			"summary": "Developed machine learning models in OpenViBE for motor imagery classification in EEG data",
+			"summary": "Developed machine learning models in OpenViBE for motor imagery classification of EEG data",
 			"highlights": [
 				"Developed CSP spatial filters to de-noise EEG data",
 				"Created a versatile, modular testing system for benchmarking ML models used for EEG analysis",
 				"Designed LDA, SVM and CNN based ML models for EEG motor activity classification",
-				"Deployed ML models in VR game"
+				"Deployed ML models in gamified VR environment for stroke rehabilitation"
 			],
 			"startDate": "2024-06-01",
 			"endDate": "2024-10-01"
 		},
 		{
 			"position": "Founder Neurotech Lab, BITS Pilani",
-			"summary": "Led research initiatives in the field of computational neuroscience and neurotechnology",
+			"summary": "Led research and outreach initiatives in the field of computational neuroscience and neurotechnology",
 			"highlights": [
 				"Using reinforcement learning algorithms for channel reduction in P300 spellers",
 				"Created EMG based digital interface system for gaming",
@@ -77,25 +77,24 @@
 		{
 			"institution": "Birla Institute of Technology and Science Pilani, Pilani Campus",
 			"url": "https://www.bits-pilani.ac.in/pilani",
-			"area": "Computer Science; 9.54 CGPA (Grade scale: 2-10)",
-			"studyType": "B.E. (Hons.)",
+			"area": "",
+			"score": "CGPA: 9.54 (top 3% of batch, received 40% merit scholarship)",
+			"studyType": "B.E. (Hons.) Computer Science",
 			"startDate": "2023-08-31",
 			"endDate": "2027-05-30",
 			"courses": [
-				"Founder, Neurotech Lab",
-				"Student Program for Advancing Research KnowLedge and Entrepreneurship (SPARKLE)",
 				"Vertical Lead, Postman API Lab (Neurotech, Competitive Coding, App Development)",
 				"Coding Club (Competitive Coding)",
 				"Google Developer Student Chapter (Competitive Coding)",
-				"Biology Association",
-				"Inspired Karters Electric",
-				"Society for Theoritical Sciences"
+				"Inspired Karters Electric (designing electric vehicles for racing)",
+				"Society for Theoretical Sciences",
+				"Biology Association"
 			]
 		},
 		{
 			"institution": "National Public School, Indiranagar",
 			"url": "https://www.npsinr.com/",
-			"area": "10th: 93.8%, 12th: 96.6%",
+			"score": "Marks: 10th: 93.8%, 12th: 96.6%",
 			"studyType": "High School Diploma",
 			"startDate": "2018-06-30",
 			"endDate": "2023-04-30",
@@ -110,37 +109,43 @@
 			"title": "Inter Collegiate Programming Competition World Finalist 2024",
 			"date": "2023-09-19",
 			"awarder": "Inter Collegiate Programming Contest",
-			"summary": "Participated in the ICPC World Finals at Astana, Kazakhstan and secured global rank of 107 as well as an Indian rank of 7. Results: https://scoreboard.icpc.global/2024/scoreboard/"
+			"summary": "Participated in the ICPC World Finals at Astana, Kazakhstan and secured global rank of 107 as well as an Indian rank of 7"
 		},
 		{
-			"title": "International Linguistics Olympiad Silver Medallist",
+			"title": "International Linguistics Olympiad Silver Medallist 2022",
 			"date": "2022-07-31",
 			"awarder": "International Linguistics Olympiad, Lingomann",
-			"summary": "Received a silver medal in the International Linguistics Olympiad, 2022 held in Isle of Man, UK. Came 28th out of 200+ participants. Got the highest score from India. Results: https://ioling.org/results/2022/"
+			"summary": "Received a silver medal in the International Linguistics Olympiad, 2022 held in Isle of Man, UK. Came 28th out of 200+ participants. Got the highest score from India"
+		},
+		{
+			"title": "Rise Global Winner 2022",
+			"date": "2022-09-30",
+			"awarder": "Schmidt Futures, Rhodes Trust",
+			"summary": "Top 100 students selected to be part of the 2022 Rise Global Winner cohort out of 80,000 applicants. Rise is an initiative of Schmidt Futures and the Rhodes Trust that finds brilliant people who need opportunity and supports them for life as they work to serve others"
 		},
 		{
 			"title": "Asia Pacific Informatics Olympiad Bronze Medallist",
 			"date": "2022-05-31",
 			"awarder": "Asia Pacific Informatics Olympiad",
-			"summary": "2nd place amongst Indian contestants in APIO. Results: https://www.apio2022.org/ranking"
+			"summary": "Won a bronze medal in APIO with 2nd place amongst 60 Indian contestants"
 		},
 		{
 			"title": "Asia Pacific Linguistics Olympiad Silver (2023), Bronze (2019,22) Medallist",
 			"date": "2023-04-26",
 			"awarder": "Asia Pacific Linguistics Olympiad",
-			"summary": "Secured an APLO silver medal in 2023 and was the youngest ever APLO medallist from India in 2019. Results: https://aplo.asia/results/"
+			"summary": "Was the youngest medallist at APLO in 2019. Won 2 bronze medals in 2019 and 2022 and a silver medal in 2023 with the highest score from India"
 		},
 		{
-			"title": "Rise Global Winner",
-			"date": "2022-09-30",
-			"awarder": "Schmidt Futures, Rhodes Trust",
-			"summary": "Top 100 students selected to be part of the 2022 Rise Global Winner cohort out of 80,000 applicants. Results: https://www.risefortheworld.org/global-winners"
+			"title": "International Olympiad of Informatics Training Camp Qualifier",
+			"date": "2021-04-30",
+			"awarder": "Indian Association for Research in Computer Science",
+			"summary": "One of the top 40 students of India to be selected for the International Olympiad of Informatics Training Camp"
 		},
 		{
 			"title": "IRIS National Fair 2020,21,22 Finalist",
 			"date": "2020-01-31",
 			"awarder": "Exstemplar Education Foundation; Department of Science and Technology, India · Jan 2022",
-			"summary": "Top 100 projects at IRIS National Fair for my projects: 1. SimAID - an agent-based simulation model and decision support tool for pandemics; 2. SMART: Stroke Monitoring and Rehabilitation using Technology.; 3. DriveSafe: A smartphone app to monitor reckless driving behaviours. Results: https://www.irisnationalfair.org"
+			"summary": "Top 100 projects at IRIS Indian National Fair for my research projects: 1. SimAID - an agent-based simulation model and decision support tool for pandemics; 2. SMART: Stroke Monitoring and Rehabilitation using Technology.; 3. DriveSafe: A smartphone app to monitor reckless driving behaviours. Results: https://www.irisnationalfair.org"
 		}
 	],
 	"skills": [
@@ -232,27 +237,25 @@
 	"projects": [
 		{
 			"name": "SimAID - Simulating and Analyzing Infectious Diseases",
-			"description": "A novel agent-based epidemiological model that allows policymakers to simulate and analyze intervention policies for various pandemics. See more: https://siddhantattavar.com/projects/simaid/",
-			"highlights": [],
+			"description": "A novel agent-based epidemiological model to simulate and analyze intervention strategies during pandemics",
+			"highlights": [
+				"Implemented 5+ intervention strategies including vaccination, lockdown etc.",
+				"Improved collision detection algorithm from O(N^2) to O(NlogN) using quad trees"
+			],
 			"startDate": "2021-03-31",
 			"endDate": "2022-02-28",
 			"url": "https://siddhantattavar.com/projects/simaid/"
 		},
 		{
 			"name": "SMART - Stroke Monitoring And Rehabilitation using Technology",
-			"description": "A technology based solution aimed at addressing the gaps in stroke rehabilitation services in India using EEG based brainwave anaysis and state-of-the-art machine learning techniques. See more: https://siddhantattavar.com/projects/smart/",
-			"highlights": [],
+			"description": "A technology based solution aimed at addressing the gaps in stroke rehabilitation services in India",
+			"highlights": [
+				"Developed EEG neurofeedback based stroke rehabilitation platform",
+				"Stroke detection via machine learning algorithms"
+			],
 			"startDate": "2020-04-30",
 			"endDate": "2021-06-30",
 			"url": "https://siddhantattavar.com/projects/smart/"
-		},
-		{
-			"name": "DriveSafe - A smartphone app to monitor reckless driving behaviors",
-			"description": "A smartphone applicantion which uses inbuilt smartphone sensors to detect reckless driving behaviours in real-time and provide feedback in an effort to improve road safety in India. See more: https://siddhantattavar.com/projects/drivesafe/",
-			"highlights": [],
-			"startDate": "2019-05-31",
-			"endDate": "2020-02-28",
-			"url": "https://siddhantattavar.com/projects/drivesafe/"
 		}
 	],
 	"meta": {
